@@ -1,0 +1,132 @@
+C:\trac\projekt\lernen-dot-net\2012-10-09-pcc-vb\VBKurs\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2012-10-09-pcc-vb\VBKurs\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2012-10-09-pcc-vb\VBKurs\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2012-10-09-pcc-vb\VBKurs\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2012-10-09-pcc-vb\VBKurs\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2012-10-09-pcc-vb\VBKurs\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2012-10-09-pcc-vb\VBKurs\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2012-10-09-pcc-vb\VBKurs\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2012-10-09-pcc-vb\VBKurs\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2012-10-09-pcc-vb\VBKurs\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBKurs\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBKurs\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBKurs\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBKurs\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBKurs\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBKurs\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBKurs\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBKurs\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBKurs\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-03-11-pcc-VB-Wallduern-Fa-Braun\VBKurs\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll.CodeAnalysisLog.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll.lastcodeanalysissucceeded
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.pdb
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb

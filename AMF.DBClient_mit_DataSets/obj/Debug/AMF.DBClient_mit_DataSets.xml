@@ -1,0 +1,108 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AMF.DBClient_mit_DataSets
+</name>
+</assembly>
+<members>
+<member name="T:AMF.DBClient_mit_DataSets.ArtikelDB.ArtikelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.ArtikelDB.LieferantenDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.ArtikelDB.ProdukteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.ArtikelDB.ArtikelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.ArtikelDB.LieferantenRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.ArtikelDB.ProdukteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.ArtikelDB.ArtikelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.ArtikelDB.LieferantenRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.ArtikelDB.ProdukteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.ArtikelDB">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.ArtikelDBTableAdapters.ArtikelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.ArtikelDBTableAdapters.LieferantenTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.ArtikelDBTableAdapters.ProdukteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AMF.DBClient_mit_DataSets.ArtikelDBTableAdapters.TableAdapterManager.UpdateUpdatedRows(AMF.DBClient_mit_DataSets.ArtikelDB,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AMF.DBClient_mit_DataSets.ArtikelDBTableAdapters.TableAdapterManager.UpdateInsertedRows(AMF.DBClient_mit_DataSets.ArtikelDB,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AMF.DBClient_mit_DataSets.ArtikelDBTableAdapters.TableAdapterManager.UpdateDeletedRows(AMF.DBClient_mit_DataSets.ArtikelDB,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AMF.DBClient_mit_DataSets.ArtikelDBTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AMF.DBClient_mit_DataSets.ArtikelDBTableAdapters.TableAdapterManager.UpdateAll(AMF.DBClient_mit_DataSets.ArtikelDB)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.ArtikelDBTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.ArtikelDBTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.ArtikelDBTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:AMF.DBClient_mit_DataSets.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AMF.DBClient_mit_DataSets.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:AMF.DBClient_mit_DataSets.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VB.OO.Klassenlib
+</name>
+</assembly>
+<members>
+<member name="P:VB.OO.Klassenlib.My.Resources.Resources.ResourceManager">
+	<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+</summary>
+</member><member name="P:VB.OO.Klassenlib.My.Resources.Resources.Culture">
+	<summary>
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member><member name="T:VB.OO.Klassenlib.My.Resources.Resources">
+	<summary>
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+</summary>
+</member><member name="M:VB.OO.Klassenlib.Auto.#ctor(System.String,System.Double,System.Double)">
+	<summary>
+ Konstruktor für ein Auto
+ </summary>
+	<param name="Kennzeichen"></param>
+	<param name="V0inKmh"></param>
+	<param name="Position"></param>
+	<remarks></remarks>
+</member><member name="M:VB.OO.Klassenlib.Auto.#ctor">
+	<summary>
+ Default- Konstruktor
+ </summary>
+	<remarks></remarks>
+</member><member name="M:VB.OO.Klassenlib.Auto.Finalize">
+	<summary>
+ Letzter Wunsch vor dem killen durch den GC
+ </summary>
+	<remarks></remarks>
+</member><member name="P:VB.OO.Klassenlib.Auto.EntfernungABStartInKm">
+	<summary>
+ Abstand vom Startpunkt der Autobahn. Dienst in einer Simulation als Bezugspunkt,
+ um die Position der Farhzeuge auf den Autobahnfahrstreifen zu definieren
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VB.OO.Klassenlib.Auto.EntfernungAbStartInMeter">
+	<summary>
+	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VB.OO.Klassenlib.Auto.Fahrstreifen">
+	<summary>
+ Nummer des Fahrstreifens, auf dem sich das Auto gerade befindet. Nummerierung erfolgt 
+ von rechts nach links und beginnt mit 0 (rechter Fahrstreifen hat Nummer 0).
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VB.OO.Klassenlib.Auto.VinKmh">
+	<summary>
+ Momentangeschwindigkeit des Autos
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:VB.OO.Klassenlib.Auto.VerkehrsteilnehmerBewerten(VB.OO.Klassenlib.Auto,System.Double@,System.Boolean@)">
+	<summary>
+ In einem Simulationsschritt werden z.B. die Abstände zu anderen Verkehrsteilnehmern ermittelt 
+ und bewertet. In Abhängigkeit von der Bewertung wird reagiert (Ereignisse ausgelöst)
+ </summary>
+	<param name="Teilnehmer"></param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

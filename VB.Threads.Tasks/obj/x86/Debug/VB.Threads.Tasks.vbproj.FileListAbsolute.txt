@@ -1,0 +1,175 @@
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe.config
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe.config
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe.config
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe.config
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe.config
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2013-12-09-pcc-vb-net-gk\NET-45\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe.config
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.Resources.resources
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe.config
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.Resources.resources
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe.config
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.pdb
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.dll
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.pdb
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.xml
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.Resources.resources
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb

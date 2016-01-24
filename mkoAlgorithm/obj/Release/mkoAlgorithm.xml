@@ -1,0 +1,150 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+mkoAlgorithm
+</name>
+</assembly>
+<members>
+<member name="M:mkoAlgorithm.Permutationen.Fact(System.Object)">
+	<summary>
+ Berechnet die Anzahl der Permutationen über einer Menge von 
+ n Elementen. 
+ </summary>
+	<param name="n"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:mkoAlgorithm.ListenoperatorenFunktional.Concat``1(``0[],``0[])">
+	<summary>
+ Hilfsfunktion, welche zwei Listen aneinanderhängt und zurückliefert
+ </summary>
+	<param name="a">1. Teilliste</param>
+	<param name="b">2. Teilliste</param>
+	<returns>Verbundliste, die mit 1. Teilliste beginnt und 2. Teilliste endet</returns>
+	<remarks></remarks>
+</member><member name="M:mkoAlgorithm.ListenoperatorenFunktional.TupleCombiner``2(``0[],``1[])">
+	<summary>
+ Aus zwei gleichlangen Listen wird eine Liste erzeugt, wobei jeder Eintrag ein 
+ Tupel ist, und in der 1. Spalte der Wert aus Liste 1, und in der 2. Spalte der 
+ Wert aus Liste 2 steht
+ </summary>
+	<typeparam name="T1"></typeparam>
+	<typeparam name="T2"></typeparam>
+	<param name="list1"></param>
+	<param name="list2"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:mkoAlgorithm.ListenoperatorenFunktional">
+	<summary>
+ (C) Martin Korneffel, Herbst 2012
+ Operatoren zur Listenverarbeitung in funktionalen Programmen
+ </summary>
+	<remarks></remarks>
+</member><member name="M:mkoAlgorithm.FunctionalExtensions.Curry``3(System.Func{``0,``1,``2},``0)">
+	<summary>
+ Curry- Operator: Bindet den 1. Parameter einer binären Funktion an eine übergebene Konstante, verpackt ihn in 
+ einer unären Funktion und gibt diese zurück 
+ Curry(f(x,y), a) -&gt; fc(y) äquivalent f(a, y)
+ </summary>
+	<typeparam name="TP1"></typeparam>
+	<typeparam name="TP2"></typeparam>
+	<typeparam name="TRet"></typeparam>
+	<param name="f"></param>
+	<param name="a"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:mkoAlgorithm.FunctionalExtensions.Curry``2(System.Action{``0,``1},``0)">
+	<summary>
+ Curry- Operator für binäre Action
+ </summary>
+	<typeparam name="TP1"></typeparam>
+	<typeparam name="TP2"></typeparam>
+	<param name="f"></param>
+	<param name="a"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:mkoAlgorithm.PrimzahlScannerFunktional.IstPrimzahl(System.Int64)">
+	<summary>
+ Funktionale Implementierung des Primzahltestes
+ </summary>
+	<param name="z"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:mkoAlgorithm.PrimzahlScannerFunktional.TesteAufTeiler(System.Int64@,System.Int64)">
+	<summary>
+ Hilfsfunktion zur funktionalen Implementierung des Primzahltestes
+ </summary>
+	<param name="z">zu prüfende Zahl</param>
+	<param name="KandidatTeiler">Teilbarkeit bezüglich dieses Wertes wird geprüft</param>
+	<returns>True, wenn der KandidatTeiler oder ein größerer Wert Teiler ist</returns>
+	<remarks></remarks>
+</member><member name="M:mkoAlgorithm.PrimzahlScannerFunktional.AllePrimzahlenIn(System.Int64,System.Int64)">
+	<summary>
+ Liefert alle Primzahlen in einem Intervall [a,b]
+ </summary>
+	<param name="a">Intervallbeginn</param>
+	<param name="b">Intervallende</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:mkoAlgorithm.PrimzahlScannerFunktional.ListeErweiternUmPrimzahlenIn(System.Int64,System.Int64@,System.Int64[])">
+	<summary>
+ Erweitert eine übergebene Liste um alle Primzahlen zw. z und b
+ </summary>
+	<param name="z">Intervallbeginn</param>
+	<param name="b">Intervallende</param>
+	<param name="pzl">Liste, die um Primzahlen erweitert werden soll</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:mkoAlgorithm.StatFunktional.Min``1(``0[])">
+	<summary>
+ Minimum in einer Liste suchen
+ </summary>
+	<typeparam name="T"></typeparam>
+	<param name="list"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:mkoAlgorithm.StatFunktional.Max``1(``0[])">
+	<summary>
+ Maximum in einer Liste suchen
+ </summary>
+	<typeparam name="T"></typeparam>
+	<param name="list"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:mkoAlgorithm.My.Resources.Resources.ResourceManager">
+	<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+</summary>
+</member><member name="P:mkoAlgorithm.My.Resources.Resources.Culture">
+	<summary>
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member><member name="T:mkoAlgorithm.My.Resources.Resources">
+	<summary>
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+</summary>
+</member><member name="M:mkoAlgorithm.LongExtensions.IsPrim(System.Int64)">
+	<summary>
+ Gibt true Zurück, wenn z eine Primzahl ist
+ </summary>
+	<param name="z"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:mkoAlgorithm.LongExtensions.Factorization(System.Int64)">
+	<summary>
+ Gibt eine Liste mit den Primfaktoren, in die die Zahl zerlegt werden kann zurück
+ </summary>
+	<param name="z"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:mkoAlgorithm.Primzahlen.Primfaktoren(System.Int64,System.Collections.Generic.List{System.Int64})">
+	<summary>
+ Liefert zur Zahl z die Liste der Primfaktoren
+ </summary>
+	<param name="z"></param>
+	<param name="primfaktoren"></param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DBArtikelModelStoreContainer" CdmEntityContainer="DBArtikelEntities1">
+    <EntitySetMapping Name="Artikel">
+      <EntityTypeMapping TypeName="DBArtikelModel.Artikel">
+        <MappingFragment StoreEntitySet="Artikel">
+          <ScalarProperty Name="artnr" ColumnName="artnr" />
+          <ScalarProperty Name="lfnr" ColumnName="lfnr" />
+          <ScalarProperty Name="pnr" ColumnName="pnr" />
+          <ScalarProperty Name="vorrat" ColumnName="vorrat" />
+          <ScalarProperty Name="preis" ColumnName="preis" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Lieferanten">
+      <EntityTypeMapping TypeName="DBArtikelModel.Lieferanten">
+        <MappingFragment StoreEntitySet="Lieferanten">
+          <ScalarProperty Name="lfnr" ColumnName="lfnr" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="plz" ColumnName="plz" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Produkte">
+      <EntityTypeMapping TypeName="DBArtikelModel.Produkte">
+        <MappingFragment StoreEntitySet="Produkte">
+          <ScalarProperty Name="pnr" ColumnName="pnr" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

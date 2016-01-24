@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="KeplerDBModelStoreContainer" CdmEntityContainer="KeplerDBEntities">
+    <EntitySetMapping Name="AufgabenTab">
+      <EntityTypeMapping TypeName="KeplerDBModel.AufgabenTab">
+        <MappingFragment StoreEntitySet="AufgabenTab">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Aufgabenbeschreibung" ColumnName="Aufgabenbeschreibung" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BildTab">
+      <EntityTypeMapping TypeName="KeplerDBModel.BildTab">
+        <MappingFragment StoreEntitySet="BildTab">
+          <ScalarProperty Name="HimmelskoerperID" ColumnName="HimmelskoerperID" />
+          <ScalarProperty Name="Bilddaten" ColumnName="Bilddaten" />
+          <ScalarProperty Name="Himmelskoerper_ID" ColumnName="Himmelskoerper_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HimmelskoerperTab">
+      <EntityTypeMapping TypeName="KeplerDBModel.HimmelskoerperTab">
+        <MappingFragment StoreEntitySet="HimmelskoerperTab">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Masse_in_kg" ColumnName="Masse_in_kg" />
+          <ScalarProperty Name="HimmelskoerperTyp_ID" ColumnName="HimmelskoerperTyp_ID" />
+          <ScalarProperty Name="SpektralklasseId" ColumnName="SpektralklasseId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HimmelskoerperTypenTab">
+      <EntityTypeMapping TypeName="KeplerDBModel.HimmelskoerperTypenTab">
+        <MappingFragment StoreEntitySet="HimmelskoerperTypenTab">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LaenderTab">
+      <EntityTypeMapping TypeName="KeplerDBModel.LaenderTab">
+        <MappingFragment StoreEntitySet="LaenderTab">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Laenderkennzeichen" ColumnName="Laenderkennzeichen" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RaumschiffeTab">
+      <EntityTypeMapping TypeName="KeplerDBModel.RaumschiffeTab">
+        <MappingFragment StoreEntitySet="RaumschiffeTab">
+          <ScalarProperty Name="Start_der_Mission" ColumnName="Start_der_Mission" />
+          <ScalarProperty Name="HimmelskoerperID" ColumnName="HimmelskoerperID" />
+          <ScalarProperty Name="Land_ID" ColumnName="Land_ID" />
+          <ScalarProperty Name="RaumschiffAufgaben_ID" ColumnName="RaumschiffAufgaben_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SpektralklasseTab">
+      <EntityTypeMapping TypeName="KeplerDBModel.SpektralklasseTab">
+        <MappingFragment StoreEntitySet="SpektralklasseTab">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Farbe" ColumnName="Farbe" />
+          <ScalarProperty Name="Tmin" ColumnName="Tmin" />
+          <ScalarProperty Name="Tmax" ColumnName="Tmax" />
+          <ScalarProperty Name="Masse_Hauptreihenstern_in_Sonnenmassen" ColumnName="Masse_Hauptreihenstern_in_Sonnenmassen" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sterne_Planeten_MondeTab">
+      <EntityTypeMapping TypeName="KeplerDBModel.Sterne_Planeten_MondeTab">
+        <MappingFragment StoreEntitySet="Sterne_Planeten_MondeTab">
+          <ScalarProperty Name="Aequatordurchmesser_in_km" ColumnName="Aequatordurchmesser_in_km" />
+          <ScalarProperty Name="Polardurchmesser_in_km" ColumnName="Polardurchmesser_in_km" />
+          <ScalarProperty Name="Oberflaechentemperatur_in_K" ColumnName="Oberflaechentemperatur_in_K" />
+          <ScalarProperty Name="Rotationsperiode_in_Stunden" ColumnName="Rotationsperiode_in_Stunden" />
+          <ScalarProperty Name="Fallbeschleunigung_in_meter_pro_sec" ColumnName="Fallbeschleunigung_in_meter_pro_sec" />
+          <ScalarProperty Name="Rotationsachsenneigung_in_Grad" ColumnName="Rotationsachsenneigung_in_Grad" />
+          <ScalarProperty Name="HimmelskoerperID" ColumnName="HimmelskoerperID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UmlaufbahnenTab">
+      <EntityTypeMapping TypeName="KeplerDBModel.UmlaufbahnenTab">
+        <MappingFragment StoreEntitySet="UmlaufbahnenTab">
+          <ScalarProperty Name="Laenge_grosse_Halbachse_in_km" ColumnName="Laenge_grosse_Halbachse_in_km" />
+          <ScalarProperty Name="Exzentritzitaet" ColumnName="Exzentritzitaet" />
+          <ScalarProperty Name="Umlaufdauer_in_Tagen" ColumnName="Umlaufdauer_in_Tagen" />
+          <ScalarProperty Name="Mittlere_Umlaufgeschwindigkeit_in_km_pro_sec" ColumnName="Mittlere_Umlaufgeschwindigkeit_in_km_pro_sec" />
+          <ScalarProperty Name="TrabantID" ColumnName="TrabantID" />
+          <ScalarProperty Name="Zentralobjekt_ID" ColumnName="Zentralobjekt_ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="RaumschiffAufgabenTab" TypeName="KeplerDBModel.RaumschiffAufgabenTab" StoreEntitySet="RaumschiffAufgabenTab">
+      <EndProperty Name="AufgabenTab">
+        <ScalarProperty Name="ID" ColumnName="Aufgaben_ID" />
+      </EndProperty>
+      <EndProperty Name="RaumschiffeTab">
+        <ScalarProperty Name="HimmelskoerperID" ColumnName="Raumschiffe_HimmelskoerperID" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

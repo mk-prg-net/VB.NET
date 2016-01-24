@@ -1,0 +1,22 @@
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\AMF.DBClient_mit_DataSets\bin\Debug\AMF.DBClient_mit_DataSets.exe.config
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\AMF.DBClient_mit_DataSets\bin\Debug\AMF.DBClient_mit_DataSets.exe
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\AMF.DBClient_mit_DataSets\bin\Debug\AMF.DBClient_mit_DataSets.pdb
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\AMF.DBClient_mit_DataSets\bin\Debug\AMF.DBClient_mit_DataSets.xml
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\AMF.DBClient_mit_DataSets\obj\Debug\AMF.DBClient_mit_DataSets.Form1.resources
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\AMF.DBClient_mit_DataSets\obj\Debug\AMF.DBClient_mit_DataSets.Resources.resources
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\AMF.DBClient_mit_DataSets\obj\Debug\AMF.DBClient_mit_DataSets.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\AMF.DBClient_mit_DataSets\obj\Debug\AMF.DBClient_mit_DataSets.exe
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\AMF.DBClient_mit_DataSets\obj\Debug\AMF.DBClient_mit_DataSets.xml
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\AMF.DBClient_mit_DataSets\obj\Debug\AMF.DBClient_mit_DataSets.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\VB.NET.GK\VB.NET\AMF.DBClient_mit_DataSets\bin\Debug\AMF.DBClient_mit_DataSets.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\VB.NET.GK\VB.NET\AMF.DBClient_mit_DataSets\obj\Debug\AMF.DBClient_mit_DataSets.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\VB.NET.GK\VB.NET\AMF.DBClient_mit_DataSets\obj\Debug\AMF.DBClient_mit_DataSets.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\VB.NET.GK\VB.NET\AMF.DBClient_mit_DataSets\obj\Debug\AMF.DBClient_mit_DataSets.pdb
+D:\trac\projekt\lernen-dot-net\2015-03-23-pcc-vb-net-intro\VB.NET\AMF.DBClient_mit_DataSets\bin\Debug\AMF.DBClient_mit_DataSets.exe.config
+D:\trac\projekt\lernen-dot-net\2015-03-23-pcc-vb-net-intro\VB.NET\AMF.DBClient_mit_DataSets\obj\Debug\AMF.DBClient_mit_DataSets.exe
+D:\trac\projekt\lernen-dot-net\2015-03-23-pcc-vb-net-intro\VB.NET\AMF.DBClient_mit_DataSets\obj\Debug\AMF.DBClient_mit_DataSets.xml
+D:\trac\projekt\lernen-dot-net\2015-03-23-pcc-vb-net-intro\VB.NET\AMF.DBClient_mit_DataSets\obj\Debug\AMF.DBClient_mit_DataSets.pdb
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\AMF.DBClient_mit_DataSets\bin\Debug\AMF.DBClient_mit_DataSets.exe.config
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\AMF.DBClient_mit_DataSets\obj\Debug\AMF.DBClient_mit_DataSets.exe
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\AMF.DBClient_mit_DataSets\obj\Debug\AMF.DBClient_mit_DataSets.xml
+C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\AMF.DBClient_mit_DataSets\obj\Debug\AMF.DBClient_mit_DataSets.pdb

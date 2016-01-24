@@ -1,0 +1,114 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VB.DB.EntityFramework
+</name>
+</assembly>
+<members>
+<member name="M:VB.DB.EntityFramework.SternePlanetenMondeView_V2.#ctor(VB.DB.EntityFramework.HimmelskoerperTab)">
+	<summary>
+ Konstruktor. Nimmt das HimmelskoerperTab- Entity, das alle Daten für die Eigenschaften bereitstellt,
+ entgegen
+ </summary>
+	<param name="Entity"></param>
+	<remarks></remarks>
+</member><member name="P:VB.DB.EntityFramework.SternePlanetenMondeView_V2.ID">
+	<summary>
+ Lisfert die Schlüssel des zugrundeliegenden HimmelskoerperTab- Entities
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VB.DB.EntityFramework.SternePlanetenMondeView_V2.Typ">
+	<summary>
+ Typ- Name des Himmelskoerpers (aus Tabelle HimmelskoerperTypenTab)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VB.DB.EntityFramework.SternePlanetenMondeView_V2.Name">
+	<summary>
+ Name des Himmeslkoerpers
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VB.DB.EntityFramework.SternePlanetenMondeView_V2.Masse">
+	<summary>
+ Gewicht des Himmelskoerpers in einer sinnvollen Masseangaben
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VB.DB.EntityFramework.SternePlanetenMondeView_V2.AbstandZentralkoerper">
+	<summary>
+ Abstand zum Zentralkoerper, d en dieser Himmelskörper umkreist
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VB.DB.EntityFramework.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:VB.DB.EntityFramework.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:VB.DB.EntityFramework.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:VB.DB.EntityFramework.SternePlanetenMondeView.#ctor(VB.DB.EntityFramework.HimmelskoerperTab)">
+	<summary>
+ Konstruktor. Nimmt das HimmelskoerperTab- Entity, das alle Daten für die Eigenschaften bereitstellt,
+ entgegen
+ </summary>
+	<param name="Entity"></param>
+	<remarks></remarks>
+</member><member name="P:VB.DB.EntityFramework.SternePlanetenMondeView.Keys">
+	<summary>
+ Lisfert die Schlüssel des zugrundeliegenden HimmelskoerperTab- Entities
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VB.DB.EntityFramework.SternePlanetenMondeView.Typ">
+	<summary>
+ Typ- Name des Himmelskoerpers (aus Tabelle HimmelskoerperTypenTab)
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VB.DB.EntityFramework.SternePlanetenMondeView.Name">
+	<summary>
+ Name des Himmeslkoerpers
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VB.DB.EntityFramework.SternePlanetenMondeView.Masse">
+	<summary>
+ Gewicht des Himmelskoerpers in einer sinnvollen Masseangaben
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VB.DB.EntityFramework.SternePlanetenMondeView.AbstandZentralkoerper">
+	<summary>
+ Abstand zum Zentralkoerper, d en dieser Himmelskörper umkreist
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:VB.DB.EntityFramework.SternePlanetenMondeView">
+	<summary>
+ Allegmeine Eigenschaften eines Himmelskörpers werden aus einem HimmelskoerperTab- Entioty in
+ einer flachen Struktur präsentiert.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

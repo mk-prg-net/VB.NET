@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{11264654-6ED1-4E3B-9CC6-9FF44250A27F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Basics</RootNamespace>
+    <AssemblyName>Basics</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Basics.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <RemoveIntegerChecks>true</RemoveIntegerChecks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Basics.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>MeinSchluessel.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release_ohne_Trace|AnyCPU'">
+    <OutputPath>bin\Release_ohne_Trace\</OutputPath>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Individual|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Individual\</OutputPath>
+    <DocumentationFile>Basics.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DirTree, Version=2.0.1.0, Culture=neutral, PublicKeyToken=65a6fe3e6295e9ab, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\DirTree.2.0.1.0\lib\net45\DirTree.dll</HintPath>
+    </Reference>
+    <Reference Include="mko, Version=7.1.3.0, Culture=neutral, PublicKeyToken=f4d93f46e53e0656, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\mko.7.1.3.0\lib\net45\mko.dll</HintPath>
+    </Reference>
+    <Reference Include="mko.Algo, Version=1.1.3.0, Culture=neutral, PublicKeyToken=f4d93f46e53e0656, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\mko.Algo.1.1.3.0\lib\net45\mko.Algo.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="_01_Grundbausteine\EnumLaengeneinheiten.vb" />
+    <Compile Include="_01_Grundbausteine\Planet.vb" />
+    <Compile Include="_01_Grundbausteine\_01_03_Ausdruecke.vb" />
+    <Compile Include="_01_Grundbausteine\Point.vb" />
+    <Compile Include="_01_Grundbausteine\_01_01_Blockstruktur.vb" />
+    <Compile Include="_01_Grundbausteine\_01_02_Namespaces.vb" />
+    <Compile Include="_01_Grundbausteine\_01_05_01_Variablen_Implizite_Deklaration.vb" />
+    <Compile Include="_01_Grundbausteine\_01_05_02_Variablen_Explizite_Deklaration.vb" />
+    <Compile Include="_01_Grundbausteine\_01_05_03_Variablen_Stricte_Deklaration.vb" />
+    <Compile Include="_01_Grundbausteine\_01_05_04_Variablen_Typinferenz.vb" />
+    <Compile Include="_01_Grundbausteine\_01_05_05_Variablen_Sichtbarkeiten.vb" />
+    <Compile Include="_01_Grundbausteine\_01_04_Operatoren.vb" />
+    <Compile Include="_01_Grundbausteine\_01_05_06_Datentypen.vb" />
+    <Compile Include="_01_Grundbausteine\_01_07_Unterprogramme_und_Funktionen.vb" />
+    <Compile Include="_02_Listenverarbeitung\ArrayGenerisch.vb" />
+    <Compile Include="_02_Listenverarbeitung\ArrayInt.vb" />
+    <Compile Include="_02_Listenverarbeitung\PrimList.vb" />
+    <Compile Include="_02_Listenverarbeitung\PrimSet.vb" />
+    <Compile Include="_03_Strings\_03_01_TryParse_Globalisierung.vb" />
+    <Compile Include="_04_Objektorientiert\ClassAlsContainerFuerFunktionen.vb" />
+    <Compile Include="_04_Objektorientiert\Galaxie.vb" />
+    <Compile Include="_04_Objektorientiert\Himmelskoerper.vb" />
+    <Compile Include="_04_Objektorientiert\JpegCounter.vb" />
+    <Compile Include="_04_Objektorientiert\ModulAlsContainerFuerFunktionen.vb" />
+    <Compile Include="_04_Objektorientiert\PointClonebar.vb" />
+    <Compile Include="_02_Listenverarbeitung\PointVergleichbar.vb" />
+    <Compile Include="_02_Listenverarbeitung\PointVergleicher.vb" />
+    <Compile Include="_04_Objektorientiert\PointWithProperties.vb" />
+    <Compile Include="_04_Objektorientiert\Preis.vb" />
+    <Compile Include="_01_Grundbausteine\SPoint.vb" />
+    <Compile Include="_01_Grundbausteine\_01_08_Delegates_und_Lambda.vb" />
+    <Compile Include="_02_Listenverarbeitung\LISP.vb" />
+    <Compile Include="_04_Objektorientiert\Auto.vb" />
+    <Compile Include="_04_Objektorientiert\Benzinauto.vb" />
+    <Compile Include="_04_Objektorientiert\Dieselauto.vb" />
+    <Compile Include="_04_Objektorientiert\LongExtensions.vb" />
+    <Compile Include="_04_Objektorientiert\NumberTheory.vb" />
+    <Compile Include="_04_Objektorientiert\Preisabfragen.vb" />
+    <Compile Include="_04_Objektorientiert\Romzahl.vb" />
+    <Compile Include="_04_Objektorientiert\Schlachtschiff.vb" />
+    <Compile Include="_04_Objektorientiert\Stern.vb" />
+    <Compile Include="_04_Objektorientiert\Zahlensysteme.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="MeinSchluessel.snk" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+    <Compile Include="_02_Listenverarbeitung\PrimList.Enumerator.vb" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

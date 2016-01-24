@@ -1,0 +1,16 @@
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\Activity1.g.xaml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\Workflow1_Activity1_BeforeInitializeComponentHelper.txt
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\_Workflow1.g.vb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\Activity1.g.vb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\_Activity1_BeforeInitializeComponentHelper.vb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\Workflow1.vbproj.XamlGeneratedCodeFileListAbsolute.txt
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\Workflow1.vbproj.XamlGeneratedXamlFileListAbsolute.txt
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\Workflow1.dll
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\Workflow1.pdb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\Workflow1.xml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\Workflow1.Resources.resources
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\Workflow1.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\InProcessTempFiles\Activity1.g.vb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\InProcessTempFiles\Activity1.g.xaml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\Workflow1\obj\Debug\InProcessTempFiles\_Workflow1.g.vb

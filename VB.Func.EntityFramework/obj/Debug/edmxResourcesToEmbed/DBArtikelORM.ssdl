@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBArtikelModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="DBArtikelModelStoreContainer">
+    <EntitySet Name="Artikel" EntityType="DBArtikelModel.Store.Artikel" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Lieferanten" EntityType="DBArtikelModel.Store.Lieferanten" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Produkte" EntityType="DBArtikelModel.Store.Produkte" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FKeyLieferenaten" Association="DBArtikelModel.Store.FKeyLieferenaten">
+      <End Role="Lieferanten" EntitySet="Lieferanten" />
+      <End Role="Artikel" EntitySet="Artikel" />
+    </AssociationSet>
+    <AssociationSet Name="FKeyProdukte" Association="DBArtikelModel.Store.FKeyProdukte">
+      <End Role="Produkte" EntitySet="Produkte" />
+      <End Role="Artikel" EntitySet="Artikel" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Artikel">
+    <Key>
+      <PropertyRef Name="lfnr" />
+      <PropertyRef Name="pnr" />
+    </Key>
+    <Property Name="artnr" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="lfnr" Type="int" Nullable="false" />
+    <Property Name="pnr" Type="int" Nullable="false" />
+    <Property Name="vorrat" Type="int" />
+    <Property Name="preis" Type="money" />
+  </EntityType>
+  <EntityType Name="Lieferanten">
+    <Key>
+      <PropertyRef Name="lfnr" />
+    </Key>
+    <Property Name="lfnr" Type="int" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="1000" />
+    <Property Name="email" Type="varchar" MaxLength="1000" />
+    <Property Name="plz" Type="nchar" MaxLength="5" />
+  </EntityType>
+  <EntityType Name="Produkte">
+    <Key>
+      <PropertyRef Name="pnr" />
+    </Key>
+    <Property Name="pnr" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="varchar" MaxLength="1000" />
+  </EntityType>
+  <Association Name="FKeyLieferenaten">
+    <End Role="Lieferanten" Type="DBArtikelModel.Store.Lieferanten" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Artikel" Type="DBArtikelModel.Store.Artikel" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Lieferanten">
+        <PropertyRef Name="lfnr" />
+      </Principal>
+      <Dependent Role="Artikel">
+        <PropertyRef Name="lfnr" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FKeyProdukte">
+    <End Role="Produkte" Type="DBArtikelModel.Store.Produkte" Multiplicity="1" />
+    <End Role="Artikel" Type="DBArtikelModel.Store.Artikel" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Produkte">
+        <PropertyRef Name="pnr" />
+      </Principal>
+      <Dependent Role="Artikel">
+        <PropertyRef Name="pnr" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

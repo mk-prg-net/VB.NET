@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\mkoAlgorithm.Resources.resources
+obj\Debug\mkoAlgorithm.vbproj.GenerateResource.Cache
+bin\Debug\mkoAlgorithm.dll
+bin\Debug\mkoAlgorithm.pdb
+bin\Debug\mkoAlgorithm.xml
+obj\Debug\mkoAlgorithm.dll
+obj\Debug\mkoAlgorithm.xml
+obj\Debug\mkoAlgorithm.pdb

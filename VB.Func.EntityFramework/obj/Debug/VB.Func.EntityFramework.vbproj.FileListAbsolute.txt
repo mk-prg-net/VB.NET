@@ -1,0 +1,129 @@
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll.config
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Func.EntityFramework\bin\Debug\EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Func.EntityFramework\bin\Debug\EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Func.EntityFramework\bin\Debug\de\EntityFramework.resources.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45-2\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll.config
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45-2\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45-2\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45-2\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45-2\NET-45\VB.Func.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45-2\NET-45\VB.Func.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45-2\NET-45\VB.Func.EntityFramework\bin\Debug\de\EntityFramework.resources.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45-2\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45-2\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45-2\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45-2\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45-2\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45-2\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll.config
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Func.EntityFramework\bin\Debug\EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Func.EntityFramework\bin\Debug\EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Func.EntityFramework\bin\Debug\de\EntityFramework.resources.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45-2\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll.config
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Func.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Func.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Func.EntityFramework\bin\Debug\de\EntityFramework.resources.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll.config
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Func.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Func.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Func.EntityFramework\bin\Debug\de\EntityFramework.resources.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll.config
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Func.EntityFramework\bin\Debug\EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Func.EntityFramework\bin\Debug\EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.vbprojResolveAssemblyReference.cache
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Func.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.Func.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll.config
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.pdb
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.Resources.resources
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll.config
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.pdb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll.config
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.pdb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.Resources.resources
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.pdb
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll.config
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.pdb
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Func.EntityFramework\bin\Debug\VB.Func.EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Func.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.Resources.resources
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.dll
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.xml
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.Func.EntityFramework\obj\Debug\VB.Func.EntityFramework.pdb

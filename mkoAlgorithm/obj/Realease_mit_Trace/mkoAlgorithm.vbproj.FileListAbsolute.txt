@@ -1,0 +1,10 @@
+C:\Users\Schulung\Documents\Visual Studio 2010\Projects\VBKurs\mkoAlgorithm\bin\Realease_mit_Trace\mkoAlgorithm.dll
+C:\Users\Schulung\Documents\Visual Studio 2010\Projects\VBKurs\mkoAlgorithm\bin\Realease_mit_Trace\mkoAlgorithm.pdb
+C:\Users\Schulung\Documents\Visual Studio 2010\Projects\VBKurs\mkoAlgorithm\bin\Realease_mit_Trace\mkoAlgorithm.xml
+C:\Users\Schulung\Documents\Visual Studio 2010\Projects\VBKurs\mkoAlgorithm\obj\Realease_mit_Trace\ResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2010\Projects\VBKurs\mkoAlgorithm\obj\Realease_mit_Trace\mkoAlgorithm.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2010\Projects\VBKurs\mkoAlgorithm\obj\Realease_mit_Trace\ResGen.read.1.tlog
+C:\Users\Schulung\Documents\Visual Studio 2010\Projects\VBKurs\mkoAlgorithm\obj\Realease_mit_Trace\ResGen.write.1.tlog
+C:\Users\Schulung\Documents\Visual Studio 2010\Projects\VBKurs\mkoAlgorithm\obj\Realease_mit_Trace\mkoAlgorithm.dll
+C:\Users\Schulung\Documents\Visual Studio 2010\Projects\VBKurs\mkoAlgorithm\obj\Realease_mit_Trace\mkoAlgorithm.xml
+C:\Users\Schulung\Documents\Visual Studio 2010\Projects\VBKurs\mkoAlgorithm\obj\Realease_mit_Trace\mkoAlgorithm.pdb

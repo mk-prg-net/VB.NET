@@ -1,0 +1,2 @@
+Activity1.g.xaml
+Workflow1.XamlStaticHelperNamespace._XamlStaticHelper

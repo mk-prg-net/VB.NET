@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VB.Threads.NET45.AsyncAwait
+</name>
+</assembly>
+<members>
+<member name="P:VB.Threads.NET45.AsyncAwait.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:VB.Threads.NET45.AsyncAwait.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:VB.Threads.NET45.AsyncAwait.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:VB.Threads.NET45.AsyncAwait.Primzahl.findenIn(System.Int64,System.Int64)">
+	<summary>
+ Asynchrone Methode
+ </summary>
+	<param name="von"></param>
+	<param name="bis"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

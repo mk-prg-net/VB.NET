@@ -1,0 +1,80 @@
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2013-05-13-bechtle-vb-aufbau\VB-Aufbau\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2013-04-22-pcc-vb-aufbau\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\2013-10-14-pcc-VB-NET-GK\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.Resources.resources
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2013-11-11-pcc-vb-gk\NET-45\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.Resources.resources
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2014-03-13-pcc-vb-net-aufbau\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.dll
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.xml
+C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.Resources.resources
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2014-05-08-pcc-vb-net-gk\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.pdb
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.Resources.resources
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.vbproj.GenerateResource.Cache
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.dll
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.xml
+C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.pdb
+D:\trac\projekt\lernen-dot-net\2015-10-05-pcc-vb3\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.dll
+D:\trac\projekt\lernen-dot-net\2015-10-05-pcc-vb3\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.pdb
+D:\trac\projekt\lernen-dot-net\2015-10-05-pcc-vb3\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.xml
+D:\trac\projekt\lernen-dot-net\2015-10-05-pcc-vb3\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.Resources.resources
+D:\trac\projekt\lernen-dot-net\2015-10-05-pcc-vb3\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.vbproj.GenerateResource.Cache
+D:\trac\projekt\lernen-dot-net\2015-10-05-pcc-vb3\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.dll
+D:\trac\projekt\lernen-dot-net\2015-10-05-pcc-vb3\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.xml
+D:\trac\projekt\lernen-dot-net\2015-10-05-pcc-vb3\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.pdb
