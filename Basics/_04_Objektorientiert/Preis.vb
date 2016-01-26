@@ -2,6 +2,7 @@
     Implements IComparable
 
 
+
     ' Speichert einen PReis als Festkommabetrag
     ' z.B. 4,99 Euro -> 499 (*100)
     Private _Preis As Integer
@@ -29,7 +30,7 @@
     ''' </summary>
     ''' <returns></returns>
     Public Function GetEuro() As Integer
-        Return _Preis / 100
+        Return _Preis \ 100
     End Function
 
     ''' <summary>
@@ -77,5 +78,5 @@
 
 
 
-    
+
 End Class

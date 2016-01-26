@@ -6,21 +6,21 @@ Basics.Test
 </name>
 </assembly>
 <members>
-<member name="M:Basics.Test._01_03_Ausdruecke._01_03_AusdrueckeTests">
-	<summary>
-	</summary>
-	<remarks></remarks>
-</member><member name="T:Basics.Test._01_03_Ausdruecke">
-	<summary>
-	</summary>
-	<remarks></remarks>
-</member><member name="M:Basics.Test._01_08_Delegates_und_Lambda_Tests.Jobverarbeitung(System.String,System.Action{System.String})">
+<member name="M:Basics.Test._01_08_Delegates_und_Lambda_Tests.Jobverarbeitung(System.String,System.Action{System.String})">
 	<summary>
  Unterprogramm mit Callback: ein Teil der funktionalität im 
  Unterprogramm ist über die Parameterliste konfigurierbar
  </summary>
 	<param name="job"></param>
 	<param name="fertigmeldung"></param>
+	<remarks></remarks>
+</member><member name="M:Basics.Test._01_03_Ausdruecke._01_03_AusdrueckeTests">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="T:Basics.Test._01_03_Ausdruecke">
+	<summary>
+	</summary>
 	<remarks></remarks>
 </member><member name="P:Basics.Test.My.Resources.Resources.ResourceManager">
 	<summary>

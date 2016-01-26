@@ -33,6 +33,10 @@ Imports Ctx = Basics._01_07_Unterprogramme_und_Funktionen
         Dim abstand As Double, hoehe As Double
         Ctx.PolarToCartesian(Math.Sqrt(2) * 1000, Math.PI / 4.0, abstand, hoehe)
 
+        Dim posFlugzeug2 As New Point
+        Ctx.PolarToCartesian(Math.Sqrt(2) * 1000, Math.PI / 4.0, posFlugzeug2)
+        Assert.AreEqual(1000.0, posFlugzeug2.X)
+
 
         ' Parameterarray
 
@@ -50,9 +54,13 @@ Imports Ctx = Basics._01_07_Unterprogramme_und_Funktionen
 
 
         ' Benannte Parameter, sinnvoll bei langen Parameterlisten
-        Dim Erde = CreatePlanet(Name:="Erde", _
-                                DiameterInKm:=12756, _
+        Dim Erde = CreatePlanet(DiameterInKm:=12756, _
+                                Name:="Erde", _
                                 GravityInMeterPerSec:=9.81)
+
+        ' Der Objektinitialisierer mit with mach Sinn, wenn ein Objekt innerhalb eines Ausdruckes (hier Parameterübergabe im  Funktionsaufruf)
+        ' erzeugt wird
+        Dim MarsErde = Terraforming(New Planet() With {.Name = "Mars", .istGasplanet = False, .DiameterInKm = 6000, .GravityInMeterPerSec = 5.22})
 
         ' Optionale Parameter: 2. Paramter ist in der Funktion Kilometer ein optionaler. Wird er weggelassen, dann 
         ' sind die Angaben immer in Meter, Kilometer oder AU

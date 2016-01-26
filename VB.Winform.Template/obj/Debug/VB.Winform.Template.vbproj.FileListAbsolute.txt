@@ -172,3 +172,14 @@ C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.Winform.
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.dll
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.xml
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Winform.Template\bin\Debug\VB.Winform.Template.dll.config
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Winform.Template\bin\Debug\VB.Winform.Template.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Winform.Template\bin\Debug\VB.Winform.Template.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Winform.Template\bin\Debug\VB.Winform.Template.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Winform.Template\bin\Debug\mko.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.WTmplForm.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.pdb

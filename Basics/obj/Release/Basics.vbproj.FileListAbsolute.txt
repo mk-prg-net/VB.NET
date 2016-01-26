@@ -22,3 +22,15 @@ C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\Basics\obj\Releas
 C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\Basics\obj\Release\Basics.dll
 C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\Basics\obj\Release\Basics.xml
 C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\Basics\obj\Release\Basics.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\Basics\bin\Release\Basics.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\Basics\bin\Release\Basics.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\Basics\bin\Release\Basics.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\Basics\bin\Release\DirTree.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\Basics\bin\Release\mko.Algo.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\Basics\bin\Release\mko.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\Basics\obj\Release\Basics.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\Basics\obj\Release\Basics.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\Basics\obj\Release\Basics.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\Basics\obj\Release\Basics.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\Basics\obj\Release\Basics.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\Basics\obj\Release\Basics.pdb

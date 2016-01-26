@@ -94,3 +94,15 @@ C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.OO.Klassenlib.Te
 C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.dll
 C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.xml
 C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib.Test\bin\Debug\VB.OO.Klassenlib.Test.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib.Test\bin\Debug\VB.OO.Klassenlib.Test.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib.Test\bin\Debug\VB.OO.Klassenlib.Test.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib.Test\bin\Debug\VB.OO.Klassenlib.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib.Test\bin\Debug\VB.OO.Klassenlib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib.Test\bin\Debug\VB.OO.Klassenlib.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.pdb

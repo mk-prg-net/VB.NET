@@ -26,3 +26,17 @@ C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\AMF.WinFom_
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.Form1.resources
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.Resources.resources
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\bin\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\bin\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\bin\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\bin\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\bin\Debug\mkoAlgorithm.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\bin\Debug\mkoAlgorithm.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\bin\Debug\mkoAlgorithm.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.Form1.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.pdb

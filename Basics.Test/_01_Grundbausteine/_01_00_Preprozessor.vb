@@ -14,6 +14,9 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         Debug.Listeners.Add(txtWriter)
         Trace.Listeners.Add(txtWriter)
 
+        Debug.AutoFlush = True
+        Trace.AutoFlush = True
+
 #End If
 
 
@@ -29,15 +32,24 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         Trace.WriteLine("DEBUG ist nicht gesetzt")
 #End If
 
-
         Debug.WriteLine("Ausgabe erfolgte mit Debug- Klasse")
 
         Trace.WriteLine("Ausgabe erfolgte mit Trace- Klasse")
 
 
+        Dim zähler As Double = 1
+        Dim nenner As Double
+
+        nenner = 0
+
+        Debug.Assert(nenner <> 0.0, "Achtung, eine Division durch 0 droht")
+        Dim quotient = zähler / nenner
+
+
         Trace.WriteLine(mko.TraceHlp.FormatErrMsg(Me, "_01_00_PreprozessorTest", "Beispiel einer struturierten Fehlermeldung"))
 
         Trace.WriteLine(mko.TraceHlp.FormatInfoMsg(Me, "_01_00_PreprozessorTest", "Beispiel einer struturierten Infomeldung"))
+
 
 
     End Sub

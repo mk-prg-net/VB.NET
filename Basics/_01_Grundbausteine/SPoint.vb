@@ -16,8 +16,8 @@
         Me.Y = Y
     End Sub
 
-    Public X As Double
-    Public Y As Double
+    Public Property X As Double
+    Public Property Y As Double
 
 
 End Structure

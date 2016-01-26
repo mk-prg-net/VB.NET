@@ -1,0 +1,36 @@
+Myconst ist gesetzt
+Myconst ist gesetzt
+DEBUG ist gesetzt
+DEBUG ist gesetzt
+Ausgabe erfolgte mit Debug- Klasse
+Ausgabe erfolgte mit Debug- Klasse
+Ausgabe erfolgte mit Trace- Klasse
+Ausgabe erfolgte mit Trace- Klasse
+10:21 ERR!  Basics.Test._01_00_Preprozessor._01_00_PreprozessorTest "Beispiel einer struturierten Fehlermeldung" 
+10:21 ERR!  Basics.Test._01_00_Preprozessor._01_00_PreprozessorTest "Beispiel einer struturierten Fehlermeldung" 
+10:21 INFO  Basics.Test._01_00_Preprozessor._01_00_PreprozessorTest "Beispiel einer struturierten Infomeldung" 
+10:21 INFO  Basics.Test._01_00_Preprozessor._01_00_PreprozessorTest "Beispiel einer struturierten Infomeldung" 
+Myconst ist gesetzt
+Myconst ist gesetzt
+DEBUG ist gesetzt
+DEBUG ist gesetzt
+Ausgabe erfolgte mit Debug- Klasse
+Ausgabe erfolgte mit Debug- Klasse
+Ausgabe erfolgte mit Trace- Klasse
+Ausgabe erfolgte mit Trace- Klasse
+Fehler: Achtung, eine Division durch 0 droht
+Fehler: Achtung, eine Division durch 0 droht
+Myconst ist gesetzt
+Myconst ist gesetzt
+DEBUG ist gesetzt
+DEBUG ist gesetzt
+Ausgabe erfolgte mit Debug- Klasse
+Ausgabe erfolgte mit Debug- Klasse
+Ausgabe erfolgte mit Trace- Klasse
+Ausgabe erfolgte mit Trace- Klasse
+Fehler: Achtung, eine Division durch 0 droht
+Fehler: Achtung, eine Division durch 0 droht
+10:26 ERR!  Basics.Test._01_00_Preprozessor._01_00_PreprozessorTest "Beispiel einer struturierten Fehlermeldung" 
+10:26 ERR!  Basics.Test._01_00_Preprozessor._01_00_PreprozessorTest "Beispiel einer struturierten Fehlermeldung" 
+10:26 INFO  Basics.Test._01_00_Preprozessor._01_00_PreprozessorTest "Beispiel einer struturierten Infomeldung" 
+10:26 INFO  Basics.Test._01_00_Preprozessor._01_00_PreprozessorTest "Beispiel einer struturierten Infomeldung" 

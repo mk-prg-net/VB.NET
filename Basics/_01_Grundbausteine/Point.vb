@@ -14,8 +14,8 @@
     ' angesprochen. Problem: Der Zugriff auf den 
     ' inneren Zustand und die Implementierung des 
     ' Zustandes sind nicht voneineander getrennt
-    Public X As Double
-    Public Y As Double
+    Public Property X As Double
+    Public Property Y As Double
 
 
 

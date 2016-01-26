@@ -19,6 +19,15 @@ VB.WinForm.Intro
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
+</member><member name="M:VB.WinForm.Intro.Module1.VerarbeiteEingabeZuErgebnis(System.String)">
+	<summary>
+ Folgende Eingaben werden verarbeitet:
+ [Operator] [Wert1] [Wert2]
+ z.B. + 2,3 4,6 -&gt; 6,9
+ </summary>
+	<param name="Eingabe"></param>
+	<returns></returns>
+	<remarks></remarks>
 </member><member name="T:VB.WinForm.Intro.Calculator.Operatoren">
 	<summary>
  Aufzählung aller möglichen Operatoren
@@ -43,15 +52,6 @@ VB.WinForm.Intro
 	<summary>
  Protokoll als Liste
  </summary>
-	<remarks></remarks>
-</member><member name="M:VB.WinForm.Intro.Module1.VerarbeiteEingabeZuErgebnis(System.String)">
-	<summary>
- Folgende Eingaben werden verarbeitet:
- [Operator] [Wert1] [Wert2]
- z.B. + 2,3 4,6 -&gt; 6,9
- </summary>
-	<param name="Eingabe"></param>
-	<returns></returns>
 	<remarks></remarks>
 </member>
 </members>

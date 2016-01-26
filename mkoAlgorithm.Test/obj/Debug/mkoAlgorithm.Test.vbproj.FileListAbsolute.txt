@@ -130,3 +130,13 @@ C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\mkoAlgorithm.Test\o
 C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
 C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
 C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb

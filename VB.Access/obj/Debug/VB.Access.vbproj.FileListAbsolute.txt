@@ -14,3 +14,20 @@ C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.Access\b
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.Access\bin\Debug\JetEntityFrameworkProvider.dll
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.Access\bin\Debug\EntityFramework.xml
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.Access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\bin\Debug\VB.Access.dll.config
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\bin\Debug\VB.Access.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\bin\Debug\VB.Access.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\bin\Debug\VB.Access.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\bin\Debug\EntityFramework.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\bin\Debug\JetEntityFrameworkProvider.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\bin\Debug\EntityFramework.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\bin\Debug\de\EntityFramework.resources.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\obj\Debug\Interop.ADOX.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\obj\Debug\VB.Access.vbproj.ResolveComReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\obj\Debug\VB.Access.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\obj\Debug\VB.Access.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\obj\Debug\VB.Access.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\obj\Debug\VB.Access.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Access\obj\Debug\VB.Access.pdb

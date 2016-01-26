@@ -4,6 +4,7 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
 Imports Basics._01_02_Namespaces.Universum.Andromeda.Spiralarme.Sterne.Neutronensterne
 Imports Milchneutron = Basics._01_02_Namespaces.Universum.Milchstrasse.Spiralarme.Sterne.Neutronensterne
 'Imports Basics._01_02_Namespaces.Universum.Milchstrasse.Spiralarme.Sterne.Neutronensterne
+'Imports Basics._01_02_Namespaces.Universum.Milchstrasse.Spiralarme.Sterne.Neutronensterne
 
 ' Aliasbezeichner für einen langen Namenspfad
 Imports Milcharm = Basics._01_02_Namespaces.Universum.Milchstrasse.Spiralarme

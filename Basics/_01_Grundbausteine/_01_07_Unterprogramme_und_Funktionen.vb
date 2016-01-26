@@ -67,9 +67,21 @@
     ''' <param name="phi_in_rad"></param>
     ''' <param name="x"></param>
     ''' <param name="y"></param>
-    Public Sub PolarToCartesian(r As Double, phi_in_rad As Double, ByRef x As Double, ByRef y As Double)
+    Public Sub PolarToCartesian(ByVal r As Double, phi_in_rad As Double, ByRef x As Double, ByRef y As Double)
         x = r * Math.Sin(phi_in_rad)
         y = r * Math.Cos(phi_in_rad)
+    End Sub
+
+    ''' <summary>
+    ''' Achtung: Referenztypen werden immer "ByRef" übergeben
+    ''' </summary>
+    ''' <param name="r"></param>
+    ''' <param name="phi_in_rad"></param>
+    ''' <param name="p"></param>
+    ''' <remarks></remarks>
+    Public Sub PolarToCartesian(ByVal r As Double, phi_in_rad As Double, p As Point)
+        p.X = r * Math.Sin(phi_in_rad)
+        p.Y = r * Math.Cos(phi_in_rad)
     End Sub
 
     ''' <summary>
@@ -112,6 +124,29 @@
     ''' <returns></returns>
     ''' <remarks></remarks>
     Public Function CreatePlanet(Name As String, DiameterInKm As Double, GravityInMeterPerSec As Double) As Planet
+        Return New Planet With { _
+            .Name = Name, _
+            .DiameterInKm = DiameterInKm, _
+            .GravityInMeterPerSec = GravityInMeterPerSec _
+        }
+    End Function
+
+
+    Public Function Terraforming(p As Planet) As Planet
+        p.GravityInMeterPerSec = 9.81
+        Return p
+    End Function
+
+    ''' <summary>
+    ''' Kombination aus benannten Parametern und Optionalen Parametern
+    ''' </summary>
+    ''' <param name="Name"></param>
+    ''' <param name="DiameterInKm"></param>
+    ''' <param name="GravityInMeterPerSec"></param>
+    ''' <param name="Zentralkörper"></param>
+    ''' <returns></returns>
+    ''' <remarks></remarks>
+    Public Function CreatePlanet2(Name As String, DiameterInKm As Double, GravityInMeterPerSec As Double, Optional Zentralkörper As String = "Sonne") As Planet
         Return New Planet With { _
             .Name = Name, _
             .DiameterInKm = DiameterInKm, _

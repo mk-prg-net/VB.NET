@@ -35,3 +35,11 @@ C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\mkoAlgorithm\obj\
 C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\mkoAlgorithm\obj\Release\mkoAlgorithm.dll
 C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\mkoAlgorithm\obj\Release\mkoAlgorithm.xml
 C:\Users\Schulung\Documents\Visual Studio 2012\Projects\VB.NET\mkoAlgorithm\obj\Release\mkoAlgorithm.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm\bin\Release\mkoAlgorithm.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm\bin\Release\mkoAlgorithm.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm\bin\Release\mkoAlgorithm.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm\obj\Release\mkoAlgorithm.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm\obj\Release\mkoAlgorithm.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm\obj\Release\mkoAlgorithm.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm\obj\Release\mkoAlgorithm.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\mkoAlgorithm\obj\Release\mkoAlgorithm.pdb

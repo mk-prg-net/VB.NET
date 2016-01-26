@@ -88,3 +88,13 @@ C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.WinForm.
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.WinForm.AppSettings\obj\Debug\VB.WinForm.AppSettings.Form1.resources
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.WinForm.AppSettings\obj\Debug\VB.WinForm.AppSettings.Resources.resources
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.WinForm.AppSettings\obj\Debug\VB.WinForm.AppSettings.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.AppSettings\bin\Debug\VB.WinForm.AppSettings.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.AppSettings\bin\Debug\VB.WinForm.AppSettings.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.AppSettings\bin\Debug\VB.WinForm.AppSettings.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.AppSettings\bin\Debug\VB.WinForm.AppSettings.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.AppSettings\obj\Debug\VB.WinForm.AppSettings.Form1.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.AppSettings\obj\Debug\VB.WinForm.AppSettings.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.AppSettings\obj\Debug\VB.WinForm.AppSettings.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.AppSettings\obj\Debug\VB.WinForm.AppSettings.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.AppSettings\obj\Debug\VB.WinForm.AppSettings.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.AppSettings\obj\Debug\VB.WinForm.AppSettings.pdb

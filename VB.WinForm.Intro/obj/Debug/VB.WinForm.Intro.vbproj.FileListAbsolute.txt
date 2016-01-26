@@ -89,3 +89,14 @@ C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.WinForm.Intro\ob
 C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.WinForm.Intro\obj\Debug\VB.WinForm.Intro.exe
 C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.WinForm.Intro\obj\Debug\VB.WinForm.Intro.xml
 C:\trac\projekt\lernen-dot-net\2014-06-25-mkit-amf-vb\VB.NET\VB.WinForm.Intro\obj\Debug\VB.WinForm.Intro.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.Intro\bin\Debug\VB.WinForm.Intro.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.Intro\bin\Debug\VB.WinForm.Intro.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.Intro\bin\Debug\VB.WinForm.Intro.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.Intro\bin\Debug\VB.WinForm.Intro.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.Intro\bin\Debug\mko.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.Intro\obj\Debug\VB.WinForm.Intro.Form1.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.Intro\obj\Debug\VB.WinForm.Intro.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.Intro\obj\Debug\VB.WinForm.Intro.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.Intro\obj\Debug\VB.WinForm.Intro.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.Intro\obj\Debug\VB.WinForm.Intro.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.WinForm.Intro\obj\Debug\VB.WinForm.Intro.pdb

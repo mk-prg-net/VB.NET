@@ -65,3 +65,12 @@ C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.Threads.
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.Threads.NET45.AsyncAwait\obj\Debug\VB.Threads.NET45.AsyncAwait.exe
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.Threads.NET45.AsyncAwait\obj\Debug\VB.Threads.NET45.AsyncAwait.xml
 C:\Users\marti_000\Documents\prj\NET\2015-12-01-VB-NET-Access\VB.NET\VB.Threads.NET45.AsyncAwait\obj\Debug\VB.Threads.NET45.AsyncAwait.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Threads.NET45.AsyncAwait\bin\Debug\VB.Threads.NET45.AsyncAwait.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Threads.NET45.AsyncAwait\bin\Debug\VB.Threads.NET45.AsyncAwait.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Threads.NET45.AsyncAwait\bin\Debug\VB.Threads.NET45.AsyncAwait.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Threads.NET45.AsyncAwait\bin\Debug\VB.Threads.NET45.AsyncAwait.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Threads.NET45.AsyncAwait\obj\Debug\VB.Threads.NET45.AsyncAwait.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Threads.NET45.AsyncAwait\obj\Debug\VB.Threads.NET45.AsyncAwait.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Threads.NET45.AsyncAwait\obj\Debug\VB.Threads.NET45.AsyncAwait.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Threads.NET45.AsyncAwait\obj\Debug\VB.Threads.NET45.AsyncAwait.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Threads.NET45.AsyncAwait\obj\Debug\VB.Threads.NET45.AsyncAwait.pdb
