@@ -189,3 +189,7 @@ C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.N
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe.config
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb

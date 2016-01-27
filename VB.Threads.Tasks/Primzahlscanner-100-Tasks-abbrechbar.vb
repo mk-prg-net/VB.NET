@@ -11,13 +11,14 @@ Module Primzahlscanner_100_Tasks_abbrechbar
 
         Try
 
+            ' Anlegen eines Abbruch- Tokens
             Dim cancelTokSrc As New System.Threading.CancellationTokenSource
             Dim token = cancelTokSrc.Token
 
             ' Workload partitionieren
             Dim partitionen(99) As Tuple(Of Long, Long)
             For i As Integer = 0 To 99
-                partitionen(i) = New Tuple(Of Long, Long)(i * 10000 + 1, (i + 1) * 10000)
+                partitionen(i) = Tuple.Create(i * 10000L + 1, (i + 1) * 10000L)
             Next
 
             ' Tasks Starten

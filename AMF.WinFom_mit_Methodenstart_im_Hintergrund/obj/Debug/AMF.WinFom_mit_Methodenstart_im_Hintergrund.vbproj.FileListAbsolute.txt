@@ -40,3 +40,7 @@ C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.N
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.exe
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.xml
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\bin\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.exe.config
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.exe
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.xml
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.pdb
