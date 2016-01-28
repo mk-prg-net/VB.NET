@@ -6,12 +6,7 @@ mko.VB.Db
 </name>
 </assembly>
 <members>
-<member name="T:mko.VB.Db.BaseEntityViewDefs.ViewState">
-	<summary>
- Zustand einer View, wenn ihre Inhalte bearbeitet werden
- </summary>
-	<remarks></remarks>
-</member><member name="F:mko.VB.Db.BaseEntityView`1.Entity">
+<member name="F:mko.VB.Db.BaseEntityView`1.Entity">
 	<summary>
  Lokales Entity, das die darzustellenden und zu verarbeitenden Eigenschaften anbietet
  </summary>
@@ -49,18 +44,10 @@ mko.VB.Db
  </summary>
 	<param name="Entity">externes Entity</param>
 	<remarks></remarks>
-</member><member name="M:mko.VB.Db.ObservableEntityViewCollection`2.CreateEntityView(`0)">
+</member><member name="T:mko.VB.Db.BaseEntityViewDefs.ViewState">
 	<summary>
- Klassenfabrik für EntityViews
+ Zustand einer View, wenn ihre Inhalte bearbeitet werden
  </summary>
-	<param name="Entity"></param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:mko.VB.Db.ObservableEntityViewCollection`2.LoadEntites(System.Collections.Generic.IEnumerable{`0})">
-	<summary>
- Entites aus einer Datenquelle in die Collection kopieren
- </summary>
-	<param name="EntitySet"></param>
 	<remarks></remarks>
 </member><member name="P:mko.VB.Db.My.Resources.Resources.ResourceManager">
 	<summary>
@@ -75,6 +62,19 @@ mko.VB.Db
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
+</member><member name="M:mko.VB.Db.ObservableEntityViewCollection`2.CreateEntityView(`0)">
+	<summary>
+ Klassenfabrik für EntityViews
+ </summary>
+	<param name="Entity"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:mko.VB.Db.ObservableEntityViewCollection`2.LoadEntites(System.Collections.Generic.IEnumerable{`0})">
+	<summary>
+ Entites aus einer Datenquelle in die Collection kopieren
+ </summary>
+	<param name="EntitySet"></param>
+	<remarks></remarks>
 </member>
 </members>
 </doc>

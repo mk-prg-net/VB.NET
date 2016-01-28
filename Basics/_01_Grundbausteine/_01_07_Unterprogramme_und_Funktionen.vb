@@ -116,7 +116,7 @@
     End Function
 
     ''' <summary>
-    ''' Funktion zum demonsiteren benannter Parameter
+    ''' Funktion zum demonstrieren benannter Parameter
     ''' </summary>
     ''' <param name="Name"></param>
     ''' <param name="DiameterInKm"></param>
@@ -153,6 +153,15 @@
             .GravityInMeterPerSec = GravityInMeterPerSec _
         }
     End Function
+
+    Public Function CreatePlanet3(Name As String, GravityInMeterPerSec As Double, Optional DiameterInKm As Double = 1000, Optional Zentralkörper As String = "Sonne") As Planet
+        Return New Planet With { _
+            .Name = Name, _
+            .DiameterInKm = DiameterInKm, _
+            .GravityInMeterPerSec = GravityInMeterPerSec _
+        }
+    End Function
+
 
     ''' <summary>
     ''' Beispielprogramm mit Optionalen Paramter

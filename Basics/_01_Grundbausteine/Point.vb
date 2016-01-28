@@ -18,5 +18,14 @@
     Public Property Y As Double
 
 
+    ' Kopieren von Points automatisieren mittels einer Klassenfabrik
+    ' Klassenfabrik <=> Methode, die ent4sprechnd der Parameter ein neues konfiguriertes Objekt erzeugt
+    Public Shared Function Create(pOriginal As Point) As Point
+        Dim pNeu As Point = New Point(pOriginal.X, pOriginal.Y)
+        Return pNeu
+    End Function
+
+
+
 
 End Class

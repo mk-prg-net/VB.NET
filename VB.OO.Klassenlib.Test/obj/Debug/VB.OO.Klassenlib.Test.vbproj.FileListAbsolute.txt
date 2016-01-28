@@ -106,3 +106,15 @@ C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.N
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.dll
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.xml
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib.Test\bin\Debug\VB.OO.Klassenlib.Test.dll
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib.Test\bin\Debug\VB.OO.Klassenlib.Test.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib.Test\bin\Debug\VB.OO.Klassenlib.Test.xml
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib.Test\bin\Debug\VB.OO.Klassenlib.dll
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib.Test\bin\Debug\VB.OO.Klassenlib.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib.Test\bin\Debug\VB.OO.Klassenlib.xml
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.vbprojResolveAssemblyReference.cache
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.dll
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.xml
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib.Test\obj\Debug\VB.OO.Klassenlib.Test.pdb

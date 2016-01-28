@@ -193,3 +193,15 @@ C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.xml
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.dll
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.dll
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.xml
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.xml
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbprojResolveAssemblyReference.cache
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbproj.GenerateResource.Cache

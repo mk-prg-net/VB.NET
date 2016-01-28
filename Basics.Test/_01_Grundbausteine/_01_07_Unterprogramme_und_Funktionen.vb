@@ -40,13 +40,14 @@ Imports Ctx = Basics._01_07_Unterprogramme_und_Funktionen
 
         ' Parameterarray
 
-        Dim liste() = {3.0, 5.0, 7.0, 11.0, 13.0}
+        Dim liste() As Double = {3.0, 5.0, 7.0, 11.0, 13.0}
         Dim SumListe = Ctx.Sum(liste)
 
         ' Dank ParamArray- Zusatz in der Parameterliste wird die Liste 1, 2, ...
         ' vom Compiler automatisch in ein Array verpackt
         Dim summe As Double = Ctx.Sum(1, 2, 3, 4, 5, 6)
         summe = Ctx.Sum(1, 2, 3)
+        summe = Ctx.Sum(3, 4, 5.6)
         Assert.AreEqual(6.0, summe)
 
         Dim mulSum As Double = Ctx.MulSum(2, 1, 2, 3)
@@ -57,6 +58,21 @@ Imports Ctx = Basics._01_07_Unterprogramme_und_Funktionen
         Dim Erde = CreatePlanet(DiameterInKm:=12756, _
                                 Name:="Erde", _
                                 GravityInMeterPerSec:=9.81)
+
+        Dim Mars = CreatePlanet2(DiameterInKm:=6000, _
+                        Name:="Mars", _
+                        GravityInMeterPerSec:=3)
+
+
+        Dim Todesstern = CreatePlanet2(DiameterInKm:=1000, _
+                Name:="Todesstern", _
+                GravityInMeterPerSec:=3, Zentralkörper:="Opfer")
+
+
+        Dim Todesstern2 = CreatePlanet3(Name:="Todesstern", _
+                                        GravityInMeterPerSec:=3)
+
+
 
         ' Der Objektinitialisierer mit with mach Sinn, wenn ein Objekt innerhalb eines Ausdruckes (hier Parameterübergabe im  Funktionsaufruf)
         ' erzeugt wird

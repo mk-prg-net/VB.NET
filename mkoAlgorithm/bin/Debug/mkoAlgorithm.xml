@@ -6,13 +6,7 @@ mkoAlgorithm
 </name>
 </assembly>
 <members>
-<member name="T:mkoAlgorithm.PSRatio">
-	<summary>
- Berechnet das Verhältnis der Abstände zum Vorgänger und zum Nachfolger eines elements Ei 
- in einer Zahlenfolge
- </summary>
-	<remarks></remarks>
-</member><member name="P:mkoAlgorithm.My.Resources.Resources.ResourceManager">
+<member name="P:mkoAlgorithm.My.Resources.Resources.ResourceManager">
 	<summary>
   Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
 </summary>
@@ -72,6 +66,12 @@ mkoAlgorithm
 	<typeparam name="T"></typeparam>
 	<param name="list"></param>
 	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:mkoAlgorithm.PSRatio">
+	<summary>
+ Berechnet das Verhältnis der Abstände zum Vorgänger und zum Nachfolger eines elements Ei 
+ in einer Zahlenfolge
+ </summary>
 	<remarks></remarks>
 </member><member name="M:mkoAlgorithm.Permutationen.Fact(System.Object)">
 	<summary>

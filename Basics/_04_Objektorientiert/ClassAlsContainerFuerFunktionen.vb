@@ -12,7 +12,7 @@
     End Property
 
     Public Function Add(a As Double, b As Double) As Double
-        Return (a + b) * Faktor
+        Return (a + b) * Faktor * FaktorAll
     End Function
 
 

@@ -129,6 +129,7 @@
     <Import Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="UnitTest1.vb" />
     <Compile Include="_01_Grundbausteine\_01_001_Literale.vb" />
     <Compile Include="_01_Grundbausteine\_01_00_Preprozessor.vb" />
     <Compile Include="_01_Grundbausteine\_01_07_Unterprogramme_und_Funktionen.vb" />

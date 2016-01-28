@@ -3,6 +3,8 @@
 
 
 
+
+
     ' Speichert einen PReis als Festkommabetrag
     ' z.B. 4,99 Euro -> 499 (*100)
     Private _Preis As Integer
@@ -62,8 +64,24 @@
     End Property
 
 
-    Private Function IComparable_CompareTo(obj As Object) As Integer Implements IComparable.CompareTo
-        ' Downcasten von obj in ein Preisobjekt
+    'Private Function IComparable_CompareTo(obj As Object) As Integer Implements IComparable.CompareTo
+    '    ' Downcasten von obj in ein Preisobjekt
+    '    Dim derAnderePreis As Preis = CType(obj, Preis)
+
+    '    If _Preis < derAnderePreis._Preis Then
+    '        Return -1
+    '    ElseIf _Preis > derAnderePreis._Preis Then
+    '        Return 1
+    '    Else
+    '        Return 0
+    '    End If
+
+    'End Function
+
+
+
+
+    Public Function CompareTo99(obj As Object) As Integer Implements IComparable.CompareTo
         Dim derAnderePreis As Preis = CType(obj, Preis)
 
         If _Preis < derAnderePreis._Preis Then
@@ -75,8 +93,4 @@
         End If
 
     End Function
-
-
-
-
 End Class

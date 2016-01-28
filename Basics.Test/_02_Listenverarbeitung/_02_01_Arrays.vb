@@ -1,7 +1,21 @@
 ﻿Imports System.Text
 Imports Microsoft.VisualStudio.TestTools.UnitTesting
 
+
+
+
 <TestClass()> Public Class _02_01_Arrays
+
+    Function CreatePunktwolke(srcWolke As Point()) As Point()
+
+        Dim Kopie(srcWolke.GetUpperBound(0)) As Point
+
+        For i As Integer = 0 To Kopie.GetUpperBound(0)
+            Kopie(i) = Point.Create(srcWolke(i))
+        Next
+
+        Return Kopie
+    End Function
 
     <TestMethod> _
     Public Sub _02_01_01_ArraysIntroTests()
@@ -12,6 +26,15 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         For i As Integer = 0 To primzahlen.Length - 1
             summePrim += primzahlen(i)
         Next
+
+        ' GetUpperBound liefert den größten Index in der gegeben Dimension
+        For i As Integer = 0 To primzahlen.GetUpperBound(0)
+            summePrim += primzahlen(i)
+        Next
+
+        ' Achtrung: beim Instanziieren ist die größte Platznummer
+        ' festzulegen = Anz. Elemente - 1
+        Dim Messwerte(9) As Double
 
         ' Schleife, die alle Elemente in einem Array besucht
         summePrim = 0
@@ -33,8 +56,39 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         Assert.AreEqual(primzahlen(1), prim2(1))
 
         ' Clonen
-        Dim primClone As Integer() = DirectCast(primzahlen.Clone(), Integer())
+        Dim primClone As Integer() = CType(primzahlen.Clone(), Integer())
         primClone(1) = 99
+
+        Dim Punktwolke() As Point = {
+            New Point(1, 2), _
+            New Point(1, 2), _
+            New Point(1, 2) _
+            }
+
+        Dim PunktwolkeClone = CType(Punktwolke.Clone(), Point())
+
+        Punktwolke(0).X *= 100
+        Assert.AreEqual(Punktwolke(0).X, PunktwolkeClone(0).X, "Geklont worden sind nur die Referenzen")
+
+        ' Kopieren mittels Klassenfabrik
+        Dim PunktwolkeAusKlassenfabrik = CreatePunktwolke(Punktwolke)
+        PunktwolkeAusKlassenfabrik(0).X *= 100
+        Assert.AreNotEqual(Punktwolke(0).X, PunktwolkeAusKlassenfabrik(0).X, "Geklont worden sind nun auch die Werte, da Strukturen Wertetypen sind")
+
+
+
+        Dim StruktPunktwolke() As SPoint = {
+            New SPoint(1, 2), _
+            New SPoint(1, 2), _
+            New SPoint(1, 2) _
+        }
+
+        Dim StruktPunktwolkeClone = CType(StruktPunktwolke.Clone(), SPoint())
+
+        StruktPunktwolke(0).X *= 100
+        Assert.AreNotEqual(StruktPunktwolke(0).X, StruktPunktwolkeClone(0).X, "Geklont worden sind nun auch die Werte, da Strukturen Wertetypen sind")
+
+
 
         Assert.AreNotEqual(primzahlen(1), primClone(1))
 
@@ -48,8 +102,10 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         ' 1. Spalte = Zeit, 2. Spalte = zurückgelegter Weg
         stDiagramm(0, 0) = 1
         stDiagramm(0, 1) = 0.5
+
         stDiagramm(1, 0) = 2
         stDiagramm(1, 1) = 1.0
+
         stDiagramm(2, 0) = 3
         stDiagramm(2, 1) = 1.5
 
@@ -112,7 +168,7 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
 
             Dim Preisliste_in_Dollar_gefiltert_und_sortiert = Preisliste.Where(Function(preis) preis.GetEuro() >= 1 AndAlso preis.GetEuro() < 5) _
                                                               .OrderBy(Function(preis) preis.FixpointValue) _
-                                                              .[Select](Function(preis) (CDbl(preis.FixpointValue) / 100.0) * 1.3700000000000001).ToArray()
+                                                              .[Select](Function(preis) (CDbl(preis.FixpointValue) / 100.0) * 1.37).ToArray()
 
 
 

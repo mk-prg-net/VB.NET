@@ -44,3 +44,13 @@ C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.exe
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.xml
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.vbprojResolveAssemblyReference.cache
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.Form1.resources
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\obj\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\bin\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.exe
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\bin\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\bin\Debug\AMF.WinFom_mit_Methodenstart_im_Hintergrund.xml
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\bin\Debug\mkoAlgorithm.dll
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\bin\Debug\mkoAlgorithm.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\AMF.WinFom_mit_Methodenstart_im_Hintergrund\bin\Debug\mkoAlgorithm.xml

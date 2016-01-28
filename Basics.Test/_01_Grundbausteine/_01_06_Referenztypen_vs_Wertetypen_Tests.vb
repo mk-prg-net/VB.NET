@@ -1,4 +1,5 @@
-﻿Imports System.Text
+﻿Option Strict On
+Imports System.Text
 Imports Microsoft.VisualStudio.TestTools.UnitTesting
 Imports Basics
 
@@ -6,6 +7,8 @@ Imports Basics
 
     Dim P1 As Point
     Dim P2 As SPoint
+
+
 
     <TestMethod()> Public Sub _01_06_01_Referenztypen_vs_WertetypenTest()
         ' Eine Double- Konstante verhält sich wie ein Objekt -> Konsequenz aus der Aussage: im Kern ist 
@@ -51,6 +54,8 @@ Imports Basics
         P1_Kopie = New Point()
         P1_Kopie.X = P1.X
         P1_Kopie.Y = P1.Y
+
+        P1_Kopie = Point.Create(P1)
 
         ' ... automatisiert mit Clone- Methode
 

@@ -6,34 +6,7 @@ VB.Access
 </name>
 </assembly>
 <members>
-<member name="P:VB.Access.My.Resources.Resources.ResourceManager">
-	<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member><member name="P:VB.Access.My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:VB.Access.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
-</member><member name="M:VB.Access.AccessDB.Access_Create_DB">
-	<summary>
- Programatisch eine neue Access- DB anlegen
- https://support.microsoft.com/en-us/kb/317867
- 
- Die Datenbank wurde anschliessend mittels Microsoft SQL- Server Mgmt- Studio 
- und einem Export- Paket mit den Daten der originalen Kepler DB befüllt. 
- </summary>
-	<remarks></remarks>
-</member><member name="M:VB.Access.AccessDB.Access_AccessData_ADO_classic">
-	<summary>
- Zugriff mittels der elementaren ADO- Objekte wie Connection und Command
- </summary>
-	<remarks></remarks>
-</member><member name="T:VB.Access.KeplerDataSet.HimmelskoerperTabDataTable">
+<member name="T:VB.Access.KeplerDataSet.HimmelskoerperTabDataTable">
 	<summary>
 Represents the strongly named DataTable class.
 </summary>
@@ -165,6 +138,33 @@ Used to sort self-referenced table's rows
 	<summary>
 TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
 </summary>
+</member><member name="P:VB.Access.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:VB.Access.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:VB.Access.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:VB.Access.AccessDB.Access_Create_DB">
+	<summary>
+ Programatisch eine neue Access- DB anlegen
+ https://support.microsoft.com/en-us/kb/317867
+ 
+ Die Datenbank wurde anschliessend mittels Microsoft SQL- Server Mgmt- Studio 
+ und einem Export- Paket mit den Daten der originalen Kepler DB befüllt. 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:VB.Access.AccessDB.Access_AccessData_ADO_classic">
+	<summary>
+ Zugriff mittels der elementaren ADO- Objekte wie Connection und Command
+ </summary>
+	<remarks></remarks>
 </member>
 </members>
 </doc>
