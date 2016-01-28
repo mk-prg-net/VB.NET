@@ -16,6 +16,24 @@ Public Module Primzahlen
 
     End Sub
 
+    Function findenIn(ByVal von As Long, ByVal bis As Long) As Long()
+
+        Dim Primzahlen As New List(Of Long)
+        For kandidat As Long = von To bis Step 1
+            Dim ogTeiler As Integer = CInt(Math.Sqrt(CDbl(kandidat)))
+
+            Dim istPrimzahl As Boolean = False
+            Dim Teiler As Long
+            Test(kandidat, istPrimzahl, Teiler)
+
+            If istPrimzahl Then
+                Primzahlen.Add(kandidat)
+            End If
+        Next
+
+        Return Primzahlen.ToArray()
+    End Function
+
     Sub Test(Prüfling As Long, ByRef IstPrimzahl As Boolean, ByRef Teiler As Long)
 
         ' 1 als Primzahl ausschließen, da neutrales Element bezüglich Multiplikation

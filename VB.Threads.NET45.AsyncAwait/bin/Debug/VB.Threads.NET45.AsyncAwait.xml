@@ -19,14 +19,6 @@ VB.Threads.NET45.AsyncAwait
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
-</member><member name="M:VB.Threads.NET45.AsyncAwait.Primzahl.findenIn(System.Int64,System.Int64)">
-	<summary>
- Asynchrone Methode
- </summary>
-	<param name="von"></param>
-	<param name="bis"></param>
-	<returns></returns>
-	<remarks></remarks>
 </member>
 </members>
 </doc>

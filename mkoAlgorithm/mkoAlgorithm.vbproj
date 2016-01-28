@@ -110,6 +110,7 @@
     </Compile>
     <Compile Include="Zahlentheorie\PrimzahlScanner.vb" />
     <Compile Include="Zahlentheorie\PrimzahlScannerFunktional.vb" />
+    <Compile Include="Zahlentheorie\PSRatio.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
