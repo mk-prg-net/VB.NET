@@ -1,4 +1,4 @@
-﻿Partial Public Class PrimList
+﻿Partial Class PrimList
     ' Enumerator- Klasse
     Public Class PrimEnumerator
         Implements IEnumerator(Of Long)

@@ -312,7 +312,6 @@ C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.N
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.DB.WinFormClient\obj\Debug\VB.DB.WinFormClient.pdb
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.DB.WinFormClient\bin\Debug\VB.DB.WinFormClient.exe.config
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.DB.WinFormClient\bin\Debug\VB.DB.WinFormClient.exe
-C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.DB.WinFormClient\bin\Debug\VB.DB.WinFormClient.pdb
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.DB.WinFormClient\bin\Debug\VB.DB.WinFormClient.xml
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.DB.WinFormClient\bin\Debug\EntityFramework.dll
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.DB.WinFormClient\bin\Debug\EntityFramework.SqlServer.dll
@@ -342,4 +341,7 @@ C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.DB.WinFo
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.DB.WinFormClient\obj\Debug\RdlCompile.compiled
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.DB.WinFormClient\obj\Debug\VB.DB.WinFormClient.exe
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.DB.WinFormClient\obj\Debug\VB.DB.WinFormClient.xml
-C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.DB.WinFormClient\obj\Debug\VB.DB.WinFormClient.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.DB.WinFormClient\bin\Debug\VB.DB.WinFormClient.exe.manifest
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.DB.WinFormClient\bin\Debug\VB.DB.WinFormClient.application
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.DB.WinFormClient\obj\Debug\VB.DB.WinFormClient.exe.manifest
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.DB.WinFormClient\obj\Debug\VB.DB.WinFormClient.application

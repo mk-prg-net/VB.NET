@@ -86,3 +86,11 @@ C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.N
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.dll
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.xml
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.dll
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib\bin\Debug\VB.OO.Klassenlib.xml
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.dll
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.xml
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.OO.Klassenlib\obj\Debug\VB.OO.Klassenlib.pdb

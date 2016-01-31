@@ -26,9 +26,9 @@ Module Module1
 
         'Primzahlscan_2_Tasks.Exe()
 
-        'Primzahlscan_100_Tasks.Exe()
+        Primzahlscan_100_Tasks.Exe()
 
-        Primzahlscanner_100_Tasks_abbrechbar.Exe()
+        'Primzahlscanner_100_Tasks_abbrechbar.Exe()
 
 
 

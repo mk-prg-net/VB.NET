@@ -99,6 +99,24 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
             dblSum += deinArray(i)
         Next
 
+        ' EuklidischerRaum: Demo generischer Methoden
+
+        Dim vektor1 = EuklidischerRaumGenerisch.CreateTupel(Of Integer)(1, 2, 3)
+
+        ' Bei Methoden kann der Compiler die Typparameterliste aus den 
+        ' Parametern rekonstruieren
+        Dim vektor2 = EuklidischerRaumGenerisch.CreateTupel(1.0, 2.0, 3.0)
+
+        Dim vektor3 = EuklidischerRaumGenerisch.CreateTupel("1.0", "2.0", "3.0")
+
+        ' Arbeiten mit der vordefinierten gen. Tupelklasse
+        Dim point2d = New Tuple(Of Double, Double)(3.2, 4.9)
+
+        ' Tupel bietet  eine Klassenfabrik an, um Tupel einfacher zu erstellen
+        Dim point2d_2 = Tuple.Create(3.2, 4.9)
+
+
+
 
         ' Vorgefertigte generische Collections einsetzen
 
@@ -108,6 +126,8 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         Preisliste.Add(New Preis(3, 99))
         Preisliste.Add(New Preis(1, 49))
 
+        Dim arrPreis() As Preis = {New Preis(12, 45), New Preis(8, 20), New Preis(15, 99)}
+        Preisliste.AddRange(arrPreis)
         Preisliste.AddRange(New Preis() {New Preis(12, 45), New Preis(8, 20), New Preis(15, 99)})
 
         ' Compiler wandelt folgenden Aufruf um in
@@ -115,6 +135,15 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         Dim preis3 = Preisliste(3)
         Assert.AreEqual(8, preis3.GetEuro())
         Assert.AreEqual(8, Preisliste(3).GetEuro())
+
+        ' Ein Objekt aus der Liste nehmen: Objektreferenz wird übergeben
+        Preisliste.Remove(preis3)
+        Preisliste.RemoveAt(5)
+
+        ' Einfügen
+        Preisliste.Insert(3, New Preis(7, 33))
+
+
 
         Dim AktuellePreise = New LinkedList(Of String)()
         For Each p As Preis In Preisliste
@@ -127,6 +156,8 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         While actNode IsNot Nothing
 
             Debug.WriteLine("preis: " + actNode.Value)
+            ' Da Next ein VB- Schlüsselwort ist, wird es in eckige Klammern
+            ' gesetzt = begrenzter Bezeichner
             actNode = actNode.[Next]
         End While
 
@@ -166,6 +197,11 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         ' Eintrag geändert
         telBuch("Berta") = 7766
 
+        If Not telBuch.ContainsKey("Berta") Then
+            telBuch.Add("Berta", 12345)
+        End If
+        telBuch.Add("Berta", 12345)
+
         telBuch("Cäsar") = 3344
 
         ' Iterieren durch Dictionary 1
@@ -180,22 +216,28 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
             telBuchListe.AddLast(pair.Key + ": " + pair.Value)
         Next
 
+        Dim telBuchInvers As New Dictionary(Of Integer, String)
+
+        telBuchInvers(4711) = "Anton"
+
+
+
         ' Queue
 
         Dim Warteschlange = New Queue(Of Tuple(Of Integer, String))()
 
 
         ' Aufträge in Warteschlange einstellen
-        Warteschlange.Enqueue(New Tuple(Of Integer, String)(99, "Abwaschen"))
-        Warteschlange.Enqueue(New Tuple(Of Integer, String)(77, "Abtrocknen"))
-        Warteschlange.Enqueue(New Tuple(Of Integer, String)(66, "Wegräumen"))
+        Warteschlange.Enqueue(Tuple.Create(99, "Abwaschen"))
+        Warteschlange.Enqueue(Tuple.Create(77, "Abtrocknen"))
+        Warteschlange.Enqueue(Tuple.Create(66, "Wegräumen"))
 
         ' Jobverarbeitung schaltet sich ein
         Dim Auftragsprotokoll = New LinkedList(Of String)()
         Dim Auftrag = Warteschlange.Dequeue()
         Auftragsprotokoll.AddLast("Führe aus: " + Auftrag.Item2)
 
-        Warteschlange.Enqueue(New Tuple(Of Integer, String)(55, "Zumachen"))
+        Warteschlange.Enqueue(Tuple.Create(55, "Zumachen"))
 
         Auftrag = Warteschlange.Dequeue()
         Auftragsprotokoll.AddLast("Führe aus: " + Auftrag.Item2)

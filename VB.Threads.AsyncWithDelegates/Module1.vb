@@ -27,6 +27,8 @@
         Debug.WriteLine("Auftrag 3 und 4 parallel starten")
         Dim ares As IAsyncResult = dg.BeginInvoke(20, "3", Nothing, Nothing)
 
+        'ares.AsyncWaitHandle.WaitOne()
+
         While (Not ares.IsCompleted)
             LongTerm(1, "4")
         End While

@@ -1,5 +1,7 @@
 ﻿Imports System.Text
 Imports Microsoft.VisualStudio.TestTools.UnitTesting
+
+' Achtung: Beim Einsatz von Linq muss immer System.Linq importiert werden !
 Imports System.Linq
 
 <TestClass()> Public Class _02_04_Linq_LISP
@@ -131,8 +133,8 @@ Imports System.Linq
         Dim anzHabenTeiler3 As Integer = alle.Count(Function(z) z Mod 3 = 0)
 
         ' Filtern der Listen mittels Where - Algo
-        Dim habenTeiler3 = listeA.Where(Function(z) z Mod 3 = 0)
-        Dim habenTeiler5 = listeA.Where(Function(z) z Mod 5 = 0)
+        Dim habenTeiler3 = alle.Where(Function(z) z Mod 3 = 0)
+        Dim habenTeiler5 = alle.Where(Function(z) z Mod 5 = 0)
 
         Dim AllePrimzahlen = alleOhneDuplikate.Where(Function(z) z.IsPrime())
 

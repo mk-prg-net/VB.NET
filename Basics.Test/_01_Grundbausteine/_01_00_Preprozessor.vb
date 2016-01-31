@@ -1,5 +1,5 @@
-﻿#Const MyConst = True
-'#Const MyConst = False
+﻿'#Const MyConst = True
+#Const MyConst = False
 Imports System.Text
 Imports Microsoft.VisualStudio.TestTools.UnitTesting
 
@@ -19,6 +19,10 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         Debug.AutoFlush = True
         Trace.AutoFlush = True
 
+
+        Dim MySwitch As New System.Diagnostics.TraceSwitch("MySwitch", "Steuer des Tracings")
+        'MySwitch.Level = TraceLevel.Info
+
 #End If
 
 
@@ -35,8 +39,12 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
 #End If
 
         Debug.WriteLine("Ausgabe erfolgte mit Debug- Klasse")
-
         Trace.WriteLine("Ausgabe erfolgte mit Trace- Klasse")
+
+        Trace.WriteLineIf(MySwitch.TraceError, "Eine bedingte Fehlermeldung")
+        Trace.WriteLineIf(MySwitch.TraceWarning, "Eine bedingte Warnung")
+        Trace.WriteLineIf(MySwitch.TraceInfo, "Eine bedingte Info")
+        Trace.WriteLineIf(MySwitch.TraceVerbose, "Eine bedingte ausführliche Meldung")
 
 
         Dim zähler As Double = 1
@@ -51,8 +59,6 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         Trace.WriteLine(mko.TraceHlp.FormatErrMsg(Me, "_01_00_PreprozessorTest", "Beispiel einer struturierten Fehlermeldung"))
 
         Trace.WriteLine(mko.TraceHlp.FormatInfoMsg(Me, "_01_00_PreprozessorTest", "Beispiel einer struturierten Infomeldung"))
-
-
 
     End Sub
 

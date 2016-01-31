@@ -85,6 +85,16 @@
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
     <Optimize>true</Optimize>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'SiemensKonfig|AnyCPU'">
+    <DefineTrace>false</DefineTrace>
+    <OutputPath>bin\SiemensKonfig\</OutputPath>
+    <DocumentationFile>Basics.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <DebugType>None</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="DirTree, Version=2.0.1.0, Culture=neutral, PublicKeyToken=65a6fe3e6295e9ab, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -148,6 +158,9 @@
     <Compile Include="_01_Grundbausteine\_01_07_Unterprogramme_und_Funktionen.vb" />
     <Compile Include="_02_Listenverarbeitung\ArrayGenerisch.vb" />
     <Compile Include="_02_Listenverarbeitung\ArrayInt.vb" />
+    <Compile Include="_02_Listenverarbeitung\EuklidischerRaum.vb" />
+    <Compile Include="_02_Listenverarbeitung\EuklidischerRaumGenerisch.vb" />
+    <Compile Include="_02_Listenverarbeitung\INummeric.vb" />
     <Compile Include="_02_Listenverarbeitung\PrimList.vb" />
     <Compile Include="_02_Listenverarbeitung\PrimSet.vb" />
     <Compile Include="_03_Strings\_03_01_TryParse_Globalisierung.vb" />

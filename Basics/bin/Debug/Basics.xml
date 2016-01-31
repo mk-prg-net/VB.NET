@@ -335,6 +335,13 @@ Basics
 	<summary>
  X- Koordinate
  </summary>
+</member><member name="M:Basics.EuklidischerRaum.CreateTupel(System.Double[])">
+	<summary>
+ Ein Tupel kwird durch ein eindim. Array dargestellt
+ </summary>
+	<param name="components"></param>
+	<returns></returns>
+	<remarks></remarks>
 </member><member name="P:Basics.astro.Galaxie.Sterne">
 	<summary>
  Liste aller Sterne, die in der Galaxie umherschwirren
@@ -531,6 +538,22 @@ Basics
  </summary>
 	<param name="Value"></param>
 	<param name="Unit"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Basics.EuklidischerRaumGenerisch.CreateTupel``1(``0[])">
+	<summary>
+ Ein Tupel kwird durch ein eindim. Array dargestellt
+ </summary>
+	<param name="components"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Basics.EuklidischerRaumGenerisch.Distance``1(``0[])">
+	<summary>
+ Eine generische Funktion, deren Parameter Einschränkungen 
+ genügen müssen
+ </summary>
+	<typeparam name="T"></typeparam>
+	<param name="vector"></param>
 	<returns></returns>
 	<remarks></remarks>
 </member><member name="M:Basics._03_01_TryParse_Globalisierung.ReadDouble(System.String)">

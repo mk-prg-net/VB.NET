@@ -35,20 +35,31 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
             Debug.WriteLine("Finally aus Main")
         End Try
 
-        ' Achtung: Abgeleitete Fehler müssen vor den Fehlern der Basisikalsse analysiert werden
-        'try
+        'Try
+        '    up2()
+        'Catch ex As Exception
+        '    Debug.WriteLine(ex.Message)
+        'Catch ex As System.IO.FileNotFoundException
+        '    Debug.WriteLine("FileNotFoundException: " + ex.Message)
+        'Finally
+        '    Debug.WriteLine("Finally aus Main")
+        'End Try
+
+
+        ''Achtung: Abgeleitete Fehler müssen vor den Fehlern der Basisikalsse analysiert werden
+        'Try
         '{
-        '    up2();
+        '    up2()
         '}            
         'catch (Exception ex)
         '{
-        '    Debug.WriteLine(ex.Message);
+        '    Debug.WriteLine(ex.Message)
         '}
         'catch (System.IO.FileNotFoundException ex)
         '{
-        '    Debug.WriteLine("FileNotFoundException: " + ex.Message);
+        '    Debug.WriteLine("FileNotFoundException: " + ex.Message)
         '}
-        'finally
+        'Finally
         '{
         '    Debug.WriteLine("Finally aus Main");
         '}
@@ -63,6 +74,8 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
 
                 Debug.WriteLine("Ursrünglicher Fehler: " + ex.InnerException.Message)
             End If
+
+            Dim txtFlat = mko.ExceptionHelper.FlattenExceptionMessages(ex)
 
             Debug.WriteLine(mko.ExceptionHelper.FlattenExceptionMessages(ex))
         End Try

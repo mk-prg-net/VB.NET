@@ -52,3 +52,9 @@ C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.N
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\Basics.Test\obj\Release\Basics.Test.dll
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\Basics.Test\obj\Release\Basics.Test.xml
 C:\Users\Schulung\Documents\Visual Studio 2013\2016-01-25-pcc-VB-NET-Aufbau\VB.NET\Basics.Test\obj\Release\Basics.Test.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\Basics.Test\bin\Release\Basics.Test.exe.config
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\Basics.Test\obj\Release\Basics.Test.xml
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\Basics.Test\obj\Release\Basics.Test.pdb
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\Basics.Test\obj\Release\Basics.Test.vbprojResolveAssemblyReference.cache
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\Basics.Test\obj\Release\Basics.Test.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\Basics.Test\obj\Release\Basics.Test.vbproj.GenerateResource.Cache
