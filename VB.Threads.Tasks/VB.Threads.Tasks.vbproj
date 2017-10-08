@@ -151,7 +151,7 @@
       <Name>mkoAlgorithm</Name>
     </ProjectReference>
     <ProjectReference Include="..\VB.OO.Klassenlib\VB.OO.Klassenlib.vbproj">
-      <Project>{9E55D93E-809C-4F95-A85C-7D29BD06499C}</Project>
+      <Project>{9e55d93e-809c-4f95-a85c-7d29bd06499c}</Project>
       <Name>VB.OO.Klassenlib</Name>
     </ProjectReference>
   </ItemGroup>

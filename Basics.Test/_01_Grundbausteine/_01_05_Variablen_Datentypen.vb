@@ -33,6 +33,8 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
 
         Dim inCm = _01_05_06_Datentypen.ConvertToKompliziert(123.456, "cm")
 
+        Dim inIrgendetwas = _01_05_06_Datentypen.ConvertToKompliziert(132.77, "CM")
+
         inCm = _01_05_06_Datentypen.ConvertTo(123.456, _01_05_06_Datentypen.LaengenEinheiten.cm)
 
     End Sub
@@ -54,8 +56,42 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         Dim sum2 = Basics._01_05_06_Datentypen.AddUntypisiert(3, 4)
 
 
+        ' Strenge Typisierung wird auch zur LAufzeit überwacht
+        Dim p As New Basics.Point(2, 3)
+
+        ' semantisch korrekter Aufruf 
+        Konfig(p)
+
+        ' semantisch korrekter Aufruf 
+        Konfig("(99, 77)")
+
+    End Sub
+
+    Sub Konfig(p As Object)
+
+        Dim pTypisiert = CType(p, Basics.Point)
+        pTypisiert.X *= 10
+        pTypisiert.Y *= 10
 
 
+    End Sub
+
+
+    <TestMethod()> Public Sub _01_05_Typinfos()
+
+        Dim i As Integer
+        Dim i_type As Type = i.GetType() ' Typinfo- Objekt zum i Objekt
+        Dim ii_type As Type = GetType(Integer) ' Typinfo- Objekt zum Datentypen Integer
+
+        Assert.AreEqual(i_type, ii_type)
+
+        Assert.AreEqual("Int32", i_type.Name)
+
+        Dim u As New Uri("http://mk-prg-net.de")
+
+        If Not TypeOf u Is Uri Then
+            Assert.Fail()
+        End If
 
     End Sub
 

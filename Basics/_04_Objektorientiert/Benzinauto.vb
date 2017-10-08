@@ -16,7 +16,7 @@
     ''' <param name="mengeInLiter"></param>
     ''' <returns></returns>
     Public Shadows Function tanken(mengeInLiter As Double) As Double
-        Debug.WriteLine("Benzinauto" + Marke + " " + Modell + " wurde betankt mit " + mengeInLiter + " Liter Benzin")
+        Debug.WriteLine("Benzinauto" & Marke & " " & Modell & " wurde betankt mit " & mengeInLiter & " Liter Benzin")
         Return mengeInLiter
     End Function
 

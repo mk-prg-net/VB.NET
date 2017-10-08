@@ -13,8 +13,17 @@
     Delegate Sub DGWorker(ByVal auftrag As Integer, ByVal symbol As String)
 
 
+    Sub MeinCallback(ares As IAsyncResult)
+
+        Console.WriteLine("Callback meldet Fertigstellung")
+        System.Windows.Forms.MessageBox.Show("Callback meldet Fertigstellung")
+
+    End Sub
+
+
     Sub Main()
 
+        ' Synchroner Aufruf
         Debug.WriteLine("Erster Auftrag")
         LongTerm(3, "1")
 
@@ -25,7 +34,7 @@
 
         ' Delegates nutzen, um asynchron eine Methode zu starten
         Debug.WriteLine("Auftrag 3 und 4 parallel starten")
-        Dim ares As IAsyncResult = dg.BeginInvoke(20, "3", Nothing, Nothing)
+        Dim ares As IAsyncResult = dg.BeginInvoke(20, "3", AddressOf MeinCallback, Nothing)
 
         'ares.AsyncWaitHandle.WaitOne()
 

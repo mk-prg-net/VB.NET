@@ -217,3 +217,22 @@ C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\Basics.Test
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\Basics.Test\obj\Debug\Basics.Test.dll
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\Basics.Test\obj\Debug\Basics.Test.xml
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\Basics.Test\obj\Debug\Basics.Test.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\bin\Debug\Basics.Test.dll.config
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\bin\Debug\Basics.Test.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\bin\Debug\Basics.Test.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\bin\Debug\Basics.Test.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\bin\Debug\Basics.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\bin\Debug\DirTree.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\bin\Debug\mko.Algo.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\bin\Debug\mko.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\bin\Debug\mkoAlgorithm.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\bin\Debug\Basics.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\bin\Debug\Basics.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\bin\Debug\mkoAlgorithm.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\bin\Debug\mkoAlgorithm.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\obj\Debug\Basics.Test.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\obj\Debug\Basics.Test.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\obj\Debug\Basics.Test.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\obj\Debug\Basics.Test.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\obj\Debug\Basics.Test.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\Basics.Test\obj\Debug\Basics.Test.pdb

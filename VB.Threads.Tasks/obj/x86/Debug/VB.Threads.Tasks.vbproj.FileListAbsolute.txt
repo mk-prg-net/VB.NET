@@ -205,3 +205,23 @@ C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbprojResolveAssemblyReference.cache
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.Resources.resources
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\bin\Debug\mkoAlgorithm.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\bin\Debug\VB.OO.Klassenlib.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Threads.Tasks\bin\Debug\VB.Threads.Tasks.exe.config
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.exe
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Threads.Tasks\obj\x86\Debug\VB.Threads.Tasks.pdb

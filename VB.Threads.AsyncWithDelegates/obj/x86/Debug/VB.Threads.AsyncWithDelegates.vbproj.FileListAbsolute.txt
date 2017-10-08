@@ -143,3 +143,12 @@ C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.AsyncWithDelegates\obj\x86\Debug\VB.Threads.AsyncWithDelegates.exe
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.AsyncWithDelegates\obj\x86\Debug\VB.Threads.AsyncWithDelegates.xml
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.AsyncWithDelegates\obj\x86\Debug\VB.Threads.AsyncWithDelegates.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.AsyncWithDelegates\bin\Debug\VB.Threads.AsyncWithDelegates.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.AsyncWithDelegates\obj\x86\Debug\VB.Threads.AsyncWithDelegates.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.AsyncWithDelegates\obj\x86\Debug\VB.Threads.AsyncWithDelegates.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.AsyncWithDelegates\obj\x86\Debug\VB.Threads.AsyncWithDelegates.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.AsyncWithDelegates\bin\Debug\VB.Threads.AsyncWithDelegates.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.AsyncWithDelegates\bin\Debug\VB.Threads.AsyncWithDelegates.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.AsyncWithDelegates\bin\Debug\VB.Threads.AsyncWithDelegates.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.AsyncWithDelegates\obj\x86\Debug\VB.Threads.AsyncWithDelegates.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.AsyncWithDelegates\obj\x86\Debug\VB.Threads.AsyncWithDelegates.vbproj.GenerateResource.Cache

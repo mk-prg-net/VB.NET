@@ -6,6 +6,7 @@
     Public Class Stern
         Inherits Himmelskoerper
 
+
         ''' <summary>
         ''' Leuchtfarbe eines Sterns
         ''' </summary>
@@ -14,7 +15,6 @@
         ''' <remarks></remarks>
         Public Property Spektrakklasse As String
 
-
-
+        Public Overrides Property Masse_in_Sonnenmassen As Double
     End Class
 End Namespace

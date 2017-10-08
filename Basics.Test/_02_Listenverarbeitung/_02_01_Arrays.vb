@@ -75,6 +75,15 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         PunktwolkeAusKlassenfabrik(0).X *= 100
         Assert.AreNotEqual(Punktwolke(0).X, PunktwolkeAusKlassenfabrik(0).X, "Geklont worden sind nun auch die Werte, da Strukturen Wertetypen sind")
 
+        Dim pA As Point
+        Dim sA As SPoint
+
+        Try
+            sA.X = 99
+            pA.X = 99
+        Catch ex As Exception
+
+        End Try
 
 
         Dim StruktPunktwolke() As SPoint = {

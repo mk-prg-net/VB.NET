@@ -216,3 +216,18 @@ C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.WinForm.
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.WinForm.Formularvererbung\obj\Debug\VB.WinForm.Formularvererbung.exe
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.WinForm.Formularvererbung\obj\Debug\VB.WinForm.Formularvererbung.xml
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.WinForm.Formularvererbung\obj\Debug\VB.WinForm.Formularvererbung.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.WinForm.Formularvererbung\bin\Debug\VB.WinForm.Formularvererbung.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.WinForm.Formularvererbung\bin\Debug\VB.WinForm.Formularvererbung.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.WinForm.Formularvererbung\bin\Debug\VB.WinForm.Formularvererbung.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.WinForm.Formularvererbung\bin\Debug\VB.WinForm.Formularvererbung.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.WinForm.Formularvererbung\bin\Debug\mko.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.WinForm.Formularvererbung\bin\Debug\VB.Winform.Template.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.WinForm.Formularvererbung\bin\Debug\VB.Winform.Template.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.WinForm.Formularvererbung\bin\Debug\VB.Winform.Template.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.WinForm.Formularvererbung\obj\Debug\VB.WinForm.Formularvererbung.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.WinForm.Formularvererbung\obj\Debug\VB.WinForm.Formularvererbung.Form1.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.WinForm.Formularvererbung\obj\Debug\VB.WinForm.Formularvererbung.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.WinForm.Formularvererbung\obj\Debug\VB.WinForm.Formularvererbung.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.WinForm.Formularvererbung\obj\Debug\VB.WinForm.Formularvererbung.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.WinForm.Formularvererbung\obj\Debug\VB.WinForm.Formularvererbung.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.WinForm.Formularvererbung\obj\Debug\VB.WinForm.Formularvererbung.pdb

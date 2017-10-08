@@ -11,7 +11,7 @@
 
         Public Property Name As String
 
-        Public Overridable Property Masse_in_Sonnenmassen As Double
+        Public MustOverride Property Masse_in_Sonnenmassen As Double
 
     End Class
 End Namespace

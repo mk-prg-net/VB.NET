@@ -20,12 +20,12 @@
     ''' <param name="mengeInLiter"></param>
     ''' <returns></returns>
     Public Shadows Function tanken(mengeInLiter As Double) As Double
-        Debug.WriteLine("Dieselauto" + Marke + " " + Modell + " wurde betankt mit " + mengeInLiter + " Liter Diesel")
+        Debug.WriteLine("Dieselauto" & Marke & " " & Modell & " wurde betankt mit " & mengeInLiter & " Liter Diesel")
         Return mengeInLiter
     End Function
 
     Public Overrides Function tankenPolymorph(mengeInLiter As Double) As Double
-        Debug.WriteLine("Dieselauto" + Marke + " " + Modell + " wurde polymorph betankt mit " + mengeInLiter + " Liter Diesel")
+        Debug.WriteLine("Dieselauto" & Marke & " " & Modell & " wurde polymorph betankt mit " & mengeInLiter & " Liter Diesel")
         Return mengeInLiter
     End Function
 
@@ -46,7 +46,7 @@
         'ptrDsp.Dispose();
 
 
-        System.Diagnostics.Debug.WriteLine(Marke + " Dieselauto: " + Modell + " wird nach " + EntfernungVonStuttgartInKm + "km mit Dispose verschrottet")
+        System.Diagnostics.Debug.WriteLine(Marke & " Dieselauto: " & Modell & " wird nach " & EntfernungVonStuttgartInKm & "km mit Dispose verschrottet")
 
     End Sub
 

@@ -8,6 +8,10 @@ Imports Ctx = Basics._01_07_Unterprogramme_und_Funktionen
 
     <TestMethod> _
     Public Sub _01_07_Unterprogramme_und_FunktionenTest()
+
+        Dim Ferrari As New Auto()
+        Dim dblMenge As Double = CDbl(CallByName(Ferrari, "tanken", CallType.Method, 22))
+
         Dim a As Basics.Point = New Point() With { _
             .X = 10, _
             .Y = 20 _
@@ -47,14 +51,16 @@ Imports Ctx = Basics._01_07_Unterprogramme_und_Funktionen
         ' vom Compiler automatisch in ein Array verpackt
         Dim summe As Double = Ctx.Sum(1, 2, 3, 4, 5, 6)
         summe = Ctx.Sum(1, 2, 3)
-        summe = Ctx.Sum(3, 4, 5.6)
-        Assert.AreEqual(6.0, summe)
+        summe = Ctx.Sum(3.4, 5.6)
+        Assert.AreEqual(9.0, summe)
 
         Dim mulSum As Double = Ctx.MulSum(2, 1, 2, 3)
         Assert.AreEqual(12.0, mulSum)
 
 
         ' Benannte Parameter, sinnvoll bei langen Parameterlisten
+        Dim Venus = CreatePlanet("Venus", 12000.0, 8.12)
+
         Dim Erde = CreatePlanet(DiameterInKm:=12756, _
                                 Name:="Erde", _
                                 GravityInMeterPerSec:=9.81)

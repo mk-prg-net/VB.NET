@@ -11,7 +11,7 @@ Public Module _01_05_04_Variablen_Typinferenz
         Dim deineVariable = 0
         Dim eureVariable = "0"
 
-
+        'deineVariable = 5.8
         deineVariable = CInt(5.8)
 
         ' Typinferenz verwässert die strengen Typisirungsregeln nicht !

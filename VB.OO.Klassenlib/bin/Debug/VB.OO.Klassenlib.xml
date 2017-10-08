@@ -11,37 +11,6 @@ VB.OO.Klassenlib
   Siehe https://de.wikipedia.org/wiki/Spektralklasse
  </summary>
 	<remarks></remarks>
-</member><member name="P:VB.OO.Klassenlib.Astro.Himmelskörper.Name">
-	<summary>
- Name des Himmelskörpers
- </summary>
-	<value></value>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="P:VB.OO.Klassenlib.Astro.Himmelskörper.MasseInErdmassen">
-	<summary>
- Masse des Himmelskörpers.
- Eine allgemeine Berechnungsvorschrift für Massen existiert nicht.
- Deshalb wird hier sinnloserweise 0 zurückgegeben, da ein
- Funktionsrumpf bei virtuellen Funktionen definiert werden muss
- </summary>
-	<value></value>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="P:VB.OO.Klassenlib.Astro.Himmelskörper.MasseInSonnenmassen">
-	<summary>
- Abstracte Methoden sind virtuelle Methoden, für die keine sinvolle 
- implementierung in der Basisklasse existiert
- </summary>
-	<value></value>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="T:VB.OO.Klassenlib.Astro.Himmelskörper">
-	<summary>
- Da die Klasse eine abstrakte Methode enthält, muss sie als abstrakt 
- gekennzeichnet werden.
- </summary>
-	<remarks></remarks>
 </member><member name="M:VB.OO.Klassenlib.Auto.#ctor(System.String,System.Double,System.Double)">
 	<summary>
  Konstruktor für ein Auto
@@ -109,6 +78,37 @@ VB.OO.Klassenlib
 	<summary>
   Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
 </summary>
+</member><member name="P:VB.OO.Klassenlib.Astro.Himmelskörper.Name">
+	<summary>
+ Name des Himmelskörpers
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VB.OO.Klassenlib.Astro.Himmelskörper.MasseInErdmassen">
+	<summary>
+ Masse des Himmelskörpers.
+ Eine allgemeine Berechnungsvorschrift für Massen existiert nicht.
+ Deshalb wird hier sinnloserweise 0 zurückgegeben, da ein
+ Funktionsrumpf bei virtuellen Funktionen definiert werden muss
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VB.OO.Klassenlib.Astro.Himmelskörper.MasseInSonnenmassen">
+	<summary>
+ Abstracte Methoden sind virtuelle Methoden, für die keine sinvolle 
+ implementierung in der Basisklasse existiert
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:VB.OO.Klassenlib.Astro.Himmelskörper">
+	<summary>
+ Da die Klasse eine abstrakte Methode enthält, muss sie als abstrakt 
+ gekennzeichnet werden.
+ </summary>
+	<remarks></remarks>
 </member>
 </members>
 </doc>

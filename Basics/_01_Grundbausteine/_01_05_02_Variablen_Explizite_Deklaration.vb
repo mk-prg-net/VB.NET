@@ -1,11 +1,12 @@
 ﻿Option Explicit On
+Option Strict Off
 Option Infer Off
 Public Module _01_05_02_Variablen_Explizite_Deklaration
 
     Sub exe()
         ' impizite Deklaration von Variablen
         Dim meineVariable = 0
-        Dim deineVariable = 0
+        Dim deineVariable = 0.0
 
         '…
 

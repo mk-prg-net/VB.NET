@@ -1,5 +1,5 @@
-﻿'#Const MyConst = True
-#Const MyConst = False
+﻿#Const MyConst = True
+'#Const MyConst = False
 Imports System.Text
 Imports Microsoft.VisualStudio.TestTools.UnitTesting
 

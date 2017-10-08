@@ -19,140 +19,6 @@ Basics
 	<summary>
   A strongly-typed resource class, for looking up localized strings, etc.
 </summary>
-</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.Length(Basics.Point)">
-	<summary>
- Berechnet den Abstand vom Nullpunkt
- </summary>
-	<param name="a"></param>
-	<returns></returns>
-</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.Equal(Basics.Point,Basics.Point,System.Double)">
-	<summary>
- Prüft zwei Punkte auf Identität
- </summary>
-	<param name="a"></param>
-	<param name="b"></param>
-	<param name="delta">maximal, durch Unschärfe bedingter Abstand für zwei identische Punkte</param>
-	<returns></returns>
-</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.Add(Basics.Point,Basics.Point)">
-	<summary>
- Addition von zwei Punkten, realisiert als Funktion
- </summary>
-	<param name="a"></param>
-	<param name="b"></param>
-	<returns></returns>
-</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.PolarToCartesian(System.Double,System.Double)">
-	<summary>
- Umrechnung, als Funktion implementiert, wodurch der Aufruf zu einem Ausdruck wird
- </summary>
-	<param name="r"></param>
-	<param name="phi_in_rad"></param>
-	<returns></returns>
-</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.PolarToCartesian(System.Double,System.Double,System.Double@,System.Double@)">
-	<summary>
- Alternative Umrechung von Polar- in Kartesischsche Koordinaten - realisiert als Unterprogramm
- </summary>
-	<param name="r"></param>
-	<param name="phi_in_rad"></param>
-	<param name="x"></param>
-	<param name="y"></param>
-</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.Sum(System.Double[])">
-	<summary>
- Demo Paramarray
- </summary>
-	<param name="summanden"></param>
-	<returns></returns>
-</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.MulSum(System.Double,System.Double[])">
-	<summary>
- Vor dem Param- Array dürfen noch weitere Paramter stehen. Hier factor.
- </summary>
-	<param name="factor"></param>
-	<param name="summanden"></param>
-	<returns></returns>
-</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.CreatePlanet(System.String,System.Double,System.Double)">
-	<summary>
- Funktion zum demonsiteren benannter Parameter
- </summary>
-	<param name="Name"></param>
-	<param name="DiameterInKm"></param>
-	<param name="GravityInMeterPerSec"></param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.Meter(System.Double,Basics.EnumUnitLength)">
-	<summary>
- Beispielprogramm mit Optionalen Paramter
- </summary>
-	<param name="Value"></param>
-	<param name="Unit"></param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.Kilometer(System.Double,Basics.EnumUnitLength)">
-	<summary>
- Beispielprogramm mit Optionalen Paramter
- </summary>
-	<param name="Value"></param>
-	<param name="Unit"></param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.Millimeter(System.Double,Basics.EnumUnitLength)">
-	<summary>
- Beispielprogramm mit Optionalen Paramter
- </summary>
-	<param name="Value"></param>
-	<param name="Unit"></param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.AU(System.Double,Basics.EnumUnitLength)">
-	<summary>
- Beispielprogramm mit Optionalen Paramter
- AU ist die astronomische Einheit = Abstand Erde Sonne
- </summary>
-	<param name="Value"></param>
-	<param name="Unit"></param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:Basics._03_01_TryParse_Globalisierung.ReadDouble(System.String)">
-	<summary>
- Einlesen einer Gleitkommazahl in der Kultr des Systems
- </summary>
-	<param name="valTxt"></param>
-	<returns></returns>
-</member><member name="M:Basics._03_01_TryParse_Globalisierung.ReadDouble_ch(System.String)">
-	<summary>
- Einlesen der Gleitkommazahl in CH- Kultur
- </summary>
-	<param name="valTxt"></param>
-	<returns></returns>
-</member><member name="M:Basics._01_05_06_Datentypen.DoubleArithmetik">
-	<summary>
- Spezielle Artihmetik mit double
- </summary>
-	<remarks></remarks>
-</member><member name="M:Basics._01_05_06_Datentypen.ConvertToKompliziert(System.Double,System.String)">
-	<summary>
- Motivation für Enums: Definieren einer Zieleinheit als String- 
- Nachteile: Ressourcenverschwendung, unsicher
- </summary>
-	<param name="MesswertInMeter"></param>
-	<param name="ZielEinheit"></param>
-	<returns></returns>
-</member><member name="T:Basics._01_05_06_Datentypen.LaengenEinheiten">
-	<summary>
- Enum für Längeneinheiten = Untertyp von int
- </summary>
-</member><member name="M:Basics._01_05_06_Datentypen.ConvertTo(System.Double,Basics._01_05_06_Datentypen.LaengenEinheiten)">
-	<summary>
- Verbesserung: Zieleinheit als Enum. Schon Ressourcen und ist sicher !
- </summary>
-	<param name="MesswertInMeter"></param>
-	<param name="ZielEinheit"></param>
-	<returns></returns>
-</member><member name="M:Basics._01_05_06_Datentypen.AddUntypisiert(System.Object,System.Object)">
-	<summary>
- Funktion dient zur Demo der Typprüfung zur Laufzeit
- </summary>
-	<param name="a">Erster Summand</param>
-	<param name="b">Zweiter Summand</param>
-	<returns></returns>
 </member><member name="M:Basics.Romzahl.op_Explicit(Basics.Romzahl)~System.Int64">
 	<summary>
  Konvertierungsoperator: berechnet den Wert, der durch eine Romzahl dargestellt
@@ -168,108 +34,41 @@ Basics
 	<param name="a"></param>
 	<param name="b"></param>
 	<returns></returns>
-</member><member name="P:Basics.ArrayGenerisch`1.Item(System.Int32)">
+</member><member name="M:Basics.EuklidischerRaum.CreateTupel(System.Double[])">
 	<summary>
- Indexer: Eine Eigenschaft, die über den INdexzugriffsoperator
- [ix] angesprochen wird
+ Ein Tupel kwird durch ein eindim. Array dargestellt
  </summary>
-	<param name="ix"></param>
-	<returns></returns>
-</member><member name="T:Basics.ArrayGenerisch`1">
-	<summary>
- Aus ArrayGenerisch wird jetzt der generische Typ ArrayGenerisch2, indem 
- der Datentyp für das interne Array zu einem Typparameter gemacht wird.
- </summary>
-</member><member name="T:Basics._01_08_Delegates_und_Lambda.DGBinOp">
-	<summary>
- Ein Delegate von System.Delegate ableiten, der zu den Mul und Add- MEthoden passt
- </summary>
-	<param name="a"></param>
-	<param name="b"></param>
+	<param name="components"></param>
 	<returns></returns>
 	<remarks></remarks>
-</member><member name="M:Basics._01_08_Delegates_und_Lambda.Calculator(System.Double,System.Double,Basics._01_08_Delegates_und_Lambda.DGBinOp)">
-	<summary>
- Delegates einsetzen, um Rückrufmethoden an Unterprogramme zu übergeben.
- Callback Designpattern (op ist der Callback).
- </summary>
-	<param name="a"></param>
-	<param name="b"></param>
-	<param name="op"></param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:Basics._01_08_Delegates_und_Lambda.Akku(System.Double,Basics._01_08_Delegates_und_Lambda.DGBinOp,System.Double[])">
-	<summary>
- Verallgemeinerte Akkumulation.
- Operationen der Art r = binOp(oN, binOp(oN-1, .... binOp(o0, Init))...)) werden berechnet
- Wenn binOp = (a, b) =&gt; a+b, dann ist Akku die Summenbildung über alle Operanden.
- Wenn binOp = (a, b) =&gt; a*b, dann ist Akku die Produktbildung über alle Operanden.
- </summary>
-	<param name="InitVal"></param>
-	<param name="binOp"></param>
-	<param name="Operands"></param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:Basics._01_04_Operatoren.Preis(System.Int32,System.Int32)">
-	<summary>
- Codiert in einen Integer den Euro- und Centanteil eines Preises
- </summary>
-	<param name="euro"></param>
-	<param name="cent"></param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:Basics._01_04_Operatoren.PreisEuroAnteil(System.Int32)">
-	<summary>
- Dekodiert aus einem Integer den Euroanteil eines Preises
- </summary>
-	<param name="preis"></param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:Basics._01_04_Operatoren.PreisCentAnteil(System.Int32)">
-	<summary>
- Dekodiert aus einem INteger den Centanteil eines Preises
- </summary>
-	<param name="preis"></param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="M:Basics.Benzinauto.#ctor(System.String,System.String)">
-	<summary>
- Konstruktoren einer Abgeleiteten Klasse müssen einen Konstruktor der Basisklasse in der sog. 
- Initialisierungsliste ( nach dem Doppelpunkt) aufrufen
- </summary>
-	<param name="Marke"></param>
-	<param name="Modell"></param>
-</member><member name="M:Basics.Benzinauto.tanken(System.Double)">
-	<summary>
- Allgemeine Methode zum betanken eines Fahrzeuges
- </summary>
-	<param name="mengeInLiter"></param>
-	<returns></returns>
-</member><member name="M:Basics.Zahlensysteme.ConvertToRom(System.Int64)">
-	<summary>
- Wandelt einen Integer oder Long in eine Romzal um
- </summary>
-	<param name="Value"></param>
-	<returns></returns>
-</member><member name="M:Basics.Zahlensysteme.ConvertToInt(System.String)">
-	<summary>
- Wandelt eine Romzahl in einen long- Wert um. 
- Konvertierung wird durch einen Linq- Ausdruck realisiert
- </summary>
-	<param name="RomNumber"></param>
-	<returns></returns>
-</member><member name="M:Basics.Zahlensysteme.ValueOfRomanNumeral(System.Char)">
-	<summary>
- Bestimmt den Wert einer römischen Ziffer
- </summary>
-	<param name="a"></param>
-	<returns></returns>
 </member><member name="M:Basics.SPoint.#ctor(System.Double,System.Double)">
 	<summary>
  Konstrutor mit 2 Parametern. 
  </summary>
 	<param name="X"></param>
 	<param name="Y"></param>
+</member><member name="P:Basics.ArrayInt.Item(System.Int32)">
+	<summary>
+ Indexer: Eine Eigenschaft, die über den INdexzugriffsoperator
+ [ix] angesprochen wird
+ </summary>
+	<param name="ix"></param>
+	<returns></returns>
+</member><member name="P:Basics.PrimList.Item(System.Int32)">
+	<summary>
+ Indexer- Eigenschaft, der beim Abruf ein Indize übergeben wird
+ </summary>
+	<param name="index"></param>
+	<returns></returns>
+</member><member name="T:Basics.astro.Himmelskoerper">
+	<summary>
+ 
+ Basisklasse aller Himmelskörper.
+ Aus dieser kann dank des Schlüsselwortes MustInherit 
+ kein Objekt erzeugt.
+ Die Eigenschaft Masse ist in Abgeleiteten Klassen überschreibbar
+ </summary>
+	<remarks></remarks>
 </member><member name="M:Basics.PointWithProperties.#ctor">
 	<summary>
  Defaultkonstruktor (leere PArameterliste!)
@@ -283,111 +82,6 @@ Basics
 	<summary>
  X- Koordinate
  </summary>
-</member><member name="M:Basics._01_03_Ausdruecke.F_Pi_Kettenbruch">
-	<summary>
- Pi aus einem Kettenbruch errechnen: https://de.wikipedia.org/wiki/Kreiszahl#Kettenbruchentwicklung 
- </summary>
-	<returns></returns>
-</member><member name="M:Basics._01_03_Ausdruecke.GGT(System.Int32,System.Int32)">
-	<summary>
- Grössten gemeinsamen Teiler zweier Ganzer Zahlen mittels Euklidischen Algorithmus berechnen
- Siehe https://de.wikipedia.org/wiki/Euklidischer_Algorithmus
- </summary>
-	<param name="a"></param>
-	<param name="b"></param>
-	<returns></returns>
-</member><member name="T:Basics.astro.Himmelskoerper">
-	<summary>
- 
- Basisklasse aller Himmelskörper.
- Aus dieser kann dank des Schlüsselwortes MustInherit 
- kein Objekt erzeugt.
- Die Eigenschaft Masse ist in Abgeleiteten Klassen überschreibbar
- </summary>
-	<remarks></remarks>
-</member><member name="P:Basics.Auto.VolleFahrzeugbezeichnung">
-	<summary>
-  Bsp. einer nur lesbaren Eigenschaft
- </summary>
-</member><member name="M:Basics.Auto.#ctor">
-	<summary>
- Default- Konstruktor. Wird z.B. vom Objektinitialisierer new Auto(){....} benötigt
- </summary>
-</member><member name="M:Basics.Auto.#ctor(System.String,System.String)">
-	<summary>
- Konstruktoren
- </summary>
-	<param name="Marke">Automarke</param>
-	<param name="Modell">Modell der Marke</param>
-</member><member name="M:Basics.Auto.#ctor(System.String,System.String,System.Double)">
-	<summary>
- Konstruktor 2
- </summary>
-	<param name="Marke"></param>
-	<param name="Modell"></param>
-	<param name="EntfernungVonStuttgartInKm">Startpunkt des Autos, gemessen von Stuttgart aus</param>
-</member><member name="M:Basics.Auto.tanken(System.Double)">
-	<summary>
- Allgemeine Methode zum betanken eines Fahrzeuges
- </summary>
-	<param name="mengeInLiter"></param>
-	<returns></returns>
-</member><member name="M:Basics.LongExtensions.IsOdd(System.Int64)">
-	<summary>
- Liefert true, wenn z ungerade
- </summary>
-	<param name="z"></param>
-	<returns></returns>
-</member><member name="M:Basics.LongExtensions.IsEven(System.Int64)">
-	<summary>
- Liefert true, wenn z gerade
- </summary>
-	<param name="z"></param>
-	<returns></returns>
-</member><member name="M:Basics.LongExtensions.ABS(System.Int64)">
-	<summary>
- Liefert den Absoluten Betrag von z
- </summary>
-	<param name="z"></param>
-	<returns></returns>
-</member><member name="M:Basics.LongExtensions.IsPrime(System.Int64)">
-	<summary>
- Liefert true, wenn z eine Primzahl ist
- </summary>
-	<param name="z"></param>
-	<returns></returns>
-</member><member name="P:Basics.Planet.Name">
-	<summary>
- Name des Planeten
- </summary>
-	<value></value>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="P:Basics.Planet.istGasplanet">
-	<summary>
- Bei Planeten wie Jupiter oder Saturn: ja
- </summary>
-	<value></value>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="P:Basics.Planet.DiameterInKm">
-	<summary>
-  Durchmesser des Planeten
- </summary>
-	<value></value>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="P:Basics.Planet.GravityInMeterPerSec">
-	<summary>
-	</summary>
-	<value></value>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="T:Basics.Planet">
-	<summary>
- Planeten- Datensatz
- </summary>
-	<remarks></remarks>
 </member><member name="M:Basics.LISP.L``1">
 	<summary>
  Erzeugt eine leere Liste
@@ -507,36 +201,107 @@ Basics
 	<param name="i"></param>
 	<param name="j"></param>
 	<returns></returns>
-</member><member name="M:Basics.Dieselauto.#ctor(System.String,System.String)">
+</member><member name="P:Basics.Auto.VolleFahrzeugbezeichnung">
 	<summary>
- Konstruktoren einer Abgeleiteten Klasse müssen einen Konstruktor der Basisklasse in der sog. 
- Initialisierungsliste ( nach dem Doppelpunkt) aufrufen
+  Bsp. einer nur lesbaren Eigenschaft
+ </summary>
+</member><member name="M:Basics.Auto.#ctor">
+	<summary>
+ Default- Konstruktor. Wird z.B. vom Objektinitialisierer new Auto(){....} benötigt
+ </summary>
+</member><member name="M:Basics.Auto.#ctor(System.String,System.String)">
+	<summary>
+ Konstruktoren
+ </summary>
+	<param name="Marke">Automarke</param>
+	<param name="Modell">Modell der Marke</param>
+</member><member name="M:Basics.Auto.#ctor(System.String,System.String,System.Double)">
+	<summary>
+ Konstruktor 2
  </summary>
 	<param name="Marke"></param>
 	<param name="Modell"></param>
-</member><member name="M:Basics.Dieselauto.tanken(System.Double)">
+	<param name="EntfernungVonStuttgartInKm">Startpunkt des Autos, gemessen von Stuttgart aus</param>
+</member><member name="M:Basics.Auto.tanken(System.Double)">
 	<summary>
- Spezielle Methode zum betanken eines Dieselfahrzeuges. Diese überdeckt die Implementierung aus der Basisklasse. Das Schlüsselwort new dokumentiert dies
+ Allgemeine Methode zum betanken eines Fahrzeuges
  </summary>
 	<param name="mengeInLiter"></param>
 	<returns></returns>
-</member><member name="M:Basics.NumberTheory.PrimeScan(System.Int64,System.Int64)">
+</member><member name="M:Basics.LongExtensions.IsOdd(System.Int64)">
 	<summary>
- Erzeugt eine Liste aller Primzahlen im Intervall [a, b]
+ Liefert true, wenn z ungerade
+ </summary>
+	<param name="z"></param>
+	<returns></returns>
+</member><member name="M:Basics.LongExtensions.IsEven(System.Int64)">
+	<summary>
+ Liefert true, wenn z gerade
+ </summary>
+	<param name="z"></param>
+	<returns></returns>
+</member><member name="M:Basics.LongExtensions.ABS(System.Int64)">
+	<summary>
+ Liefert den Absoluten Betrag von z
+ </summary>
+	<param name="z"></param>
+	<returns></returns>
+</member><member name="M:Basics.LongExtensions.IsPrime(System.Int64)">
+	<summary>
+ Liefert true, wenn z eine Primzahl ist
+ </summary>
+	<param name="z"></param>
+	<returns></returns>
+</member><member name="M:Basics.Zahlensysteme.ConvertToRom(System.Int64)">
+	<summary>
+ Wandelt einen Integer oder Long in eine Romzal um
+ </summary>
+	<param name="Value"></param>
+	<returns></returns>
+</member><member name="M:Basics.Zahlensysteme.ConvertToInt(System.String)">
+	<summary>
+ Wandelt eine Romzahl in einen long- Wert um. 
+ Konvertierung wird durch einen Linq- Ausdruck realisiert
+ </summary>
+	<param name="RomNumber"></param>
+	<returns></returns>
+</member><member name="M:Basics.Zahlensysteme.ValueOfRomanNumeral(System.Char)">
+	<summary>
+ Bestimmt den Wert einer römischen Ziffer
  </summary>
 	<param name="a"></param>
-	<param name="b"></param>
 	<returns></returns>
-</member><member name="P:Basics.astro.Galaxie.Sterne">
+</member><member name="P:Basics.Planet.Name">
 	<summary>
- Liste aller Sterne, die in der Galaxie umherschwirren
+ Name des Planeten
  </summary>
 	<value></value>
 	<returns></returns>
 	<remarks></remarks>
-</member><member name="T:Basics.astro.Galaxie">
+</member><member name="P:Basics.Planet.istGasplanet">
+	<summary>
+ Bei Planeten wie Jupiter oder Saturn: ja
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Basics.Planet.DiameterInKm">
+	<summary>
+  Durchmesser des Planeten
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Basics.Planet.GravityInMeterPerSec">
 	<summary>
 	</summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:Basics.Planet">
+	<summary>
+ Planeten- Datensatz
+ </summary>
 	<remarks></remarks>
 </member><member name="M:Basics.Preis.GetEuro">
 	<summary>
@@ -559,18 +324,295 @@ Basics
 	<summary>
 	</summary>
 	<remarks></remarks>
-</member><member name="P:Basics.ArrayInt.Item(System.Int32)">
+</member><member name="P:Basics.ArrayGenerisch`1.Item(System.Int32)">
 	<summary>
  Indexer: Eine Eigenschaft, die über den INdexzugriffsoperator
  [ix] angesprochen wird
  </summary>
 	<param name="ix"></param>
 	<returns></returns>
-</member><member name="P:Basics.PrimList.Item(System.Int32)">
+</member><member name="T:Basics.ArrayGenerisch`1">
 	<summary>
- Indexer- Eigenschaft, der beim Abruf ein Indize übergeben wird
+ Aus ArrayGenerisch wird jetzt der generische Typ ArrayGenerisch2, indem 
+ der Datentyp für das interne Array zu einem Typparameter gemacht wird.
  </summary>
-	<param name="index"></param>
+</member><member name="M:Basics._03_01_TryParse_Globalisierung.ReadDouble(System.String)">
+	<summary>
+ Einlesen einer Gleitkommazahl in der Kultr des Systems
+ </summary>
+	<param name="valTxt"></param>
+	<returns></returns>
+</member><member name="M:Basics._03_01_TryParse_Globalisierung.ReadDouble_ch(System.String)">
+	<summary>
+ Einlesen der Gleitkommazahl in CH- Kultur
+ </summary>
+	<param name="valTxt"></param>
+	<returns></returns>
+</member><member name="M:Basics._01_04_Operatoren.Preis(System.Int32,System.Int32)">
+	<summary>
+ Codiert in einen Integer den Euro- und Centanteil eines Preises
+ </summary>
+	<param name="euro"></param>
+	<param name="cent"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Basics._01_04_Operatoren.PreisEuroAnteil(System.Int32)">
+	<summary>
+ Dekodiert aus einem Integer den Euroanteil eines Preises
+ </summary>
+	<param name="preis"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Basics._01_04_Operatoren.PreisCentAnteil(System.Int32)">
+	<summary>
+ Dekodiert aus einem INteger den Centanteil eines Preises
+ </summary>
+	<param name="preis"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Basics._01_05_06_Datentypen.DoubleArithmetik">
+	<summary>
+ Spezielle Artihmetik mit double
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Basics._01_05_06_Datentypen.ConvertToKompliziert(System.Double,System.String)">
+	<summary>
+ Motivation für Enums: Definieren einer Zieleinheit als String- 
+ Nachteile: Ressourcenverschwendung, unsicher
+ </summary>
+	<param name="MesswertInMeter"></param>
+	<param name="ZielEinheit"></param>
+	<returns></returns>
+</member><member name="T:Basics._01_05_06_Datentypen.LaengenEinheiten">
+	<summary>
+ Enum für Längeneinheiten = Untertyp von int
+ </summary>
+</member><member name="M:Basics._01_05_06_Datentypen.ConvertTo(System.Double,Basics._01_05_06_Datentypen.LaengenEinheiten)">
+	<summary>
+ Verbesserung: Zieleinheit als Enum. Schon Ressourcen und ist sicher !
+ </summary>
+	<param name="MesswertInMeter"></param>
+	<param name="ZielEinheit"></param>
+	<returns></returns>
+</member><member name="M:Basics._01_05_06_Datentypen.AddUntypisiert(System.Object,System.Object)">
+	<summary>
+ Funktion dient zur Demo der Typprüfung zur Laufzeit
+ </summary>
+	<param name="a">Erster Summand</param>
+	<param name="b">Zweiter Summand</param>
+	<returns></returns>
+</member><member name="T:Basics._01_08_Delegates_und_Lambda.DGBinOp">
+	<summary>
+ Ein Delegate von System.Delegate ableiten, der zu den Mul und Add- MEthoden passt
+ </summary>
+	<param name="a"></param>
+	<param name="b"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Basics._01_08_Delegates_und_Lambda.Calculator(System.Double,System.Double,Basics._01_08_Delegates_und_Lambda.DGBinOp)">
+	<summary>
+ Delegates einsetzen, um Rückrufmethoden an Unterprogramme zu übergeben.
+ Callback Designpattern (op ist der Callback).
+ </summary>
+	<param name="a"></param>
+	<param name="b"></param>
+	<param name="op"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Basics._01_08_Delegates_und_Lambda.Akku(System.Double,Basics._01_08_Delegates_und_Lambda.DGBinOp,System.Double[])">
+	<summary>
+ Verallgemeinerte Akkumulation.
+ Operationen der Art r = binOp(oN, binOp(oN-1, .... binOp(o0, Init))...)) werden berechnet
+ Wenn binOp = (a, b) =&gt; a+b, dann ist Akku die Summenbildung über alle Operanden.
+ Wenn binOp = (a, b) =&gt; a*b, dann ist Akku die Produktbildung über alle Operanden.
+ </summary>
+	<param name="InitVal"></param>
+	<param name="binOp"></param>
+	<param name="Operands"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Basics.astro.Galaxie.Sterne">
+	<summary>
+ Liste aller Sterne, die in der Galaxie umherschwirren
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:Basics.astro.Galaxie">
+	<summary>
+	</summary>
+	<remarks></remarks>
+</member><member name="M:Basics.Benzinauto.#ctor(System.String,System.String)">
+	<summary>
+ Konstruktoren einer Abgeleiteten Klasse müssen einen Konstruktor der Basisklasse in der sog. 
+ Initialisierungsliste ( nach dem Doppelpunkt) aufrufen
+ </summary>
+	<param name="Marke"></param>
+	<param name="Modell"></param>
+</member><member name="M:Basics.Benzinauto.tanken(System.Double)">
+	<summary>
+ Allgemeine Methode zum betanken eines Fahrzeuges
+ </summary>
+	<param name="mengeInLiter"></param>
+	<returns></returns>
+</member><member name="M:Basics._01_03_Ausdruecke.F_Pi_Kettenbruch">
+	<summary>
+ Pi aus einem Kettenbruch errechnen: https://de.wikipedia.org/wiki/Kreiszahl#Kettenbruchentwicklung 
+ </summary>
+	<returns></returns>
+</member><member name="M:Basics._01_03_Ausdruecke.GGT(System.Int32,System.Int32)">
+	<summary>
+ Achtung: Diese Funktion führt zu einem Laufzeitfehler
+ Grössten gemeinsamen Teiler zweier Ganzer Zahlen mittels Euklidischen Algorithmus berechnen
+ Siehe https://de.wikipedia.org/wiki/Euklidischer_Algorithmus
+ </summary>
+	<param name="a"></param>
+	<param name="b"></param>
+	<returns></returns>
+</member><member name="M:Basics.NumberTheory.PrimeScan(System.Int64,System.Int64)">
+	<summary>
+ Erzeugt eine Liste aller Primzahlen im Intervall [a, b]
+ </summary>
+	<param name="a"></param>
+	<param name="b"></param>
+	<returns></returns>
+</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.Length(Basics.Point)">
+	<summary>
+ Berechnet den Abstand vom Nullpunkt
+ </summary>
+	<param name="a"></param>
+	<returns></returns>
+</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.Equal(Basics.Point,Basics.Point,System.Double)">
+	<summary>
+ Prüft zwei Punkte auf Identität
+ </summary>
+	<param name="a"></param>
+	<param name="b"></param>
+	<param name="delta">maximal, durch Unschärfe bedingter Abstand für zwei identische Punkte</param>
+	<returns></returns>
+</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.Add(Basics.Point,Basics.Point)">
+	<summary>
+ Addition von zwei Punkten, realisiert als Funktion
+ </summary>
+	<param name="a"></param>
+	<param name="b"></param>
+	<returns></returns>
+</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.PolarToCartesian(System.Double,System.Double)">
+	<summary>
+ Umrechnung, als Funktion implementiert, wodurch der Aufruf zu einem Ausdruck wird
+ </summary>
+	<param name="r"></param>
+	<param name="phi_in_rad"></param>
+	<returns></returns>
+</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.PolarToCartesian(System.Double,System.Double,System.Double@,System.Double@)">
+	<summary>
+ Alternative Umrechung von Polar- in Kartesischsche Koordinaten - realisiert als Unterprogramm
+ </summary>
+	<param name="r"></param>
+	<param name="phi_in_rad"></param>
+	<param name="x"></param>
+	<param name="y"></param>
+</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.PolarToCartesian(System.Double,System.Double,Basics.Point)">
+	<summary>
+ Achtung: Referenztypen werden immer "ByRef" übergeben
+ </summary>
+	<param name="r"></param>
+	<param name="phi_in_rad"></param>
+	<param name="p"></param>
+	<remarks></remarks>
+</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.Sum(System.Double[])">
+	<summary>
+ Demo Paramarray
+ </summary>
+	<param name="summanden"></param>
+	<returns></returns>
+</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.MulSum(System.Double,System.Double[])">
+	<summary>
+ Vor dem Param- Array dürfen noch weitere Paramter stehen. Hier factor.
+ </summary>
+	<param name="factor"></param>
+	<param name="summanden"></param>
+	<returns></returns>
+</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.CreatePlanet(System.String,System.Double,System.Double)">
+	<summary>
+ Funktion zum demonstrieren benannter Parameter
+ </summary>
+	<param name="Name"></param>
+	<param name="DiameterInKm"></param>
+	<param name="GravityInMeterPerSec"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.CreatePlanet2(System.String,System.Double,System.Double,System.String)">
+	<summary>
+ Kombination aus benannten Parametern und Optionalen Parametern
+ </summary>
+	<param name="Name"></param>
+	<param name="DiameterInKm"></param>
+	<param name="GravityInMeterPerSec"></param>
+	<param name="Zentralkörper"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.Meter(System.Double,Basics.EnumUnitLength)">
+	<summary>
+ Beispielprogramm mit Optionalen Paramter
+ </summary>
+	<param name="Value"></param>
+	<param name="Unit"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.Kilometer(System.Double,Basics.EnumUnitLength)">
+	<summary>
+ Beispielprogramm mit Optionalen Paramter
+ </summary>
+	<param name="Value"></param>
+	<param name="Unit"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.Millimeter(System.Double,Basics.EnumUnitLength)">
+	<summary>
+ Beispielprogramm mit Optionalen Paramter
+ </summary>
+	<param name="Value"></param>
+	<param name="Unit"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Basics._01_07_Unterprogramme_und_Funktionen.AU(System.Double,Basics.EnumUnitLength)">
+	<summary>
+ Beispielprogramm mit Optionalen Paramter
+ AU ist die astronomische Einheit = Abstand Erde Sonne
+ </summary>
+	<param name="Value"></param>
+	<param name="Unit"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Basics.EuklidischerRaumGenerisch.CreateTupel``1(``0[])">
+	<summary>
+ Ein Tupel kwird durch ein eindim. Array dargestellt
+ </summary>
+	<param name="components"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Basics.EuklidischerRaumGenerisch.Distance``1(``0[])">
+	<summary>
+ Eine generische Funktion, deren Parameter Einschränkungen 
+ genügen müssen
+ </summary>
+	<typeparam name="T"></typeparam>
+	<param name="vector"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Basics.Dieselauto.#ctor(System.String,System.String)">
+	<summary>
+ Konstruktoren einer Abgeleiteten Klasse müssen einen Konstruktor der Basisklasse in der sog. 
+ Initialisierungsliste ( nach dem Doppelpunkt) aufrufen
+ </summary>
+	<param name="Marke"></param>
+	<param name="Modell"></param>
+</member><member name="M:Basics.Dieselauto.tanken(System.Double)">
+	<summary>
+ Spezielle Methode zum betanken eines Dieselfahrzeuges. Diese überdeckt die Implementierung aus der Basisklasse. Das Schlüsselwort new dokumentiert dies
+ </summary>
+	<param name="mengeInLiter"></param>
 	<returns></returns>
 </member>
 </members>

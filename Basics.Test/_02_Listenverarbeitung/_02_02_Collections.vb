@@ -200,7 +200,7 @@ Imports Microsoft.VisualStudio.TestTools.UnitTesting
         If Not telBuch.ContainsKey("Berta") Then
             telBuch.Add("Berta", 12345)
         End If
-        telBuch.Add("Berta", 12345)
+        'telBuch.Add("Berta", 12345)
 
         telBuch("Cäsar") = 3344
 

@@ -110,6 +110,12 @@ Imports System.Linq
 
     End Sub
 
+
+    Function TesteAufTeilbarkeitDurchDrei(kandidat As Long) As Boolean
+        Return kandidat Mod 3 = 0
+    End Function
+
+
     <TestMethod()> Public Sub _02_04_Linq_Intro_Test()
 
         Dim listeA As Long() = {3, 5, 9, 12, 15, 19}
@@ -130,7 +136,10 @@ Imports System.Linq
         Dim anzAlle As Integer = alle.Count()
 
         ' Zählen aller durch 3 teilbaren in listeA
-        Dim anzHabenTeiler3 As Integer = alle.Count(Function(z) z Mod 3 = 0)
+        Dim anzHabenTeiler3 As Integer = alle.Count(AddressOf TesteAufTeilbarkeitDurchDrei)
+
+        ' Teilbarkeit mittels Lambda prüfen
+        Dim anzHabenTeiler3_2 As Integer = alle.Count(Function(z) z Mod 3 = 0)
 
         ' Filtern der Listen mittels Where - Algo
         Dim habenTeiler3 = alle.Where(Function(z) z Mod 3 = 0)

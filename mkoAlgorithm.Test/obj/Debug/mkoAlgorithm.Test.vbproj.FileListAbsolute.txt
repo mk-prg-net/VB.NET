@@ -150,3 +150,13 @@ C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\mkoAlgorith
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.Test.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\mkoAlgorithm.Test\bin\Debug\mkoAlgorithm.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\mkoAlgorithm.Test\obj\Debug\mkoAlgorithm.Test.pdb

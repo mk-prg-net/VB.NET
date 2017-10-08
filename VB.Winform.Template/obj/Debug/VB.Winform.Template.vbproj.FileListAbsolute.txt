@@ -194,3 +194,26 @@ C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Winform.
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.dll
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.xml
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Winform.Template\bin\Debug\VB.Winform.Template.dll.config
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Winform.Template\bin\Debug\VB.Winform.Template.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Winform.Template\bin\Debug\VB.Winform.Template.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Winform.Template\bin\Debug\VB.Winform.Template.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Winform.Template\bin\Debug\mko.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.WTmplForm.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.vbproj.GenerateResource.Cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Winform.Template\bin\Debug\VB.Winform.Template.dll.config
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Winform.Template\bin\Debug\VB.Winform.Template.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Winform.Template\bin\Debug\VB.Winform.Template.pdb
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Winform.Template\bin\Debug\VB.Winform.Template.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Winform.Template\bin\Debug\mko.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.vbprojResolveAssemblyReference.cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.WTmplForm.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.Resources.resources
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.vbproj.GenerateResource.Cache
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.dll
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.xml
+C:\Users\marti_000\Documents\prj\NET\VB.NET\VB.NET\VB.Winform.Template\obj\Debug\VB.Winform.Template.pdb

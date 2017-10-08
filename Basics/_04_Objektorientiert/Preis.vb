@@ -53,7 +53,7 @@
     End Function
 
     Public Overrides Function ToString() As String
-        Return "" + GetEuro() + "," + GetCent() + " €"
+        Return "" & GetEuro() & "," & GetCent() & " €"
     End Function
 
 

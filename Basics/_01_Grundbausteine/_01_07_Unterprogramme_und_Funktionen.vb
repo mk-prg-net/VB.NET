@@ -124,11 +124,27 @@
     ''' <returns></returns>
     ''' <remarks></remarks>
     Public Function CreatePlanet(Name As String, DiameterInKm As Double, GravityInMeterPerSec As Double) As Planet
+
+        Dim planet1 As New Planet
+        planet1.Name = Name
+        planet1.DiameterInKm = DiameterInKm
+        planet1.GravityInMeterPerSec = GravityInMeterPerSec
+
+        Dim planet2 As New Planet
+        With planet2
+            .DiameterInKm = DiameterInKm
+            .GravityInMeterPerSec = GravityInMeterPerSec
+            .Name = Name
+        End With
+
+        ' Erzeugen und Initialisieren eines Objektes mittels With- Block 
+        ' sind in einer Anweisung verschmolzen = Objektinitialisierer
         Return New Planet With { _
             .Name = Name, _
             .DiameterInKm = DiameterInKm, _
             .GravityInMeterPerSec = GravityInMeterPerSec _
         }
+
     End Function
 
 

@@ -6,29 +6,7 @@ VB.WinForm.Intro
 </name>
 </assembly>
 <members>
-<member name="P:VB.WinForm.Intro.My.Resources.Resources.ResourceManager">
-	<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member><member name="P:VB.WinForm.Intro.My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:VB.WinForm.Intro.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
-</member><member name="M:VB.WinForm.Intro.Module1.VerarbeiteEingabeZuErgebnis(System.String)">
-	<summary>
- Folgende Eingaben werden verarbeitet:
- [Operator] [Wert1] [Wert2]
- z.B. + 2,3 4,6 -&gt; 6,9
- </summary>
-	<param name="Eingabe"></param>
-	<returns></returns>
-	<remarks></remarks>
-</member><member name="T:VB.WinForm.Intro.Calculator.Operatoren">
+<member name="T:VB.WinForm.Intro.Calculator.Operatoren">
 	<summary>
  Aufzählung aller möglichen Operatoren
  </summary>
@@ -53,6 +31,28 @@ VB.WinForm.Intro
  Protokoll als Liste
  </summary>
 	<remarks></remarks>
+</member><member name="M:VB.WinForm.Intro.Module1.VerarbeiteEingabeZuErgebnis(System.String)">
+	<summary>
+ Folgende Eingaben werden verarbeitet:
+ [Operator] [Wert1] [Wert2]
+ z.B. + 2,3 4,6 -&gt; 6,9
+ </summary>
+	<param name="Eingabe"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:VB.WinForm.Intro.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:VB.WinForm.Intro.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:VB.WinForm.Intro.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
 </member>
 </members>
 </doc>

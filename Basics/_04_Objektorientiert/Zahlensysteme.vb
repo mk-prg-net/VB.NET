@@ -56,6 +56,8 @@
     ''' <returns></returns>
     Public Shared Function ValueOfRomanNumeral(a As Char) As Integer
         Select Case a
+            'Case "Y"c
+            '    Return 99
             Case "M"c
                 Return 1000
             Case "D"c

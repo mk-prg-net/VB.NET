@@ -29,6 +29,7 @@
     End Sub
 
     ''' <summary>
+    ''' Achtung: Diese Funktion führt zu einem Laufzeitfehler
     ''' Grössten gemeinsamen Teiler zweier Ganzer Zahlen mittels Euklidischen Algorithmus berechnen
     ''' Siehe https://de.wikipedia.org/wiki/Euklidischer_Algorithmus
     ''' </summary>

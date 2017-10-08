@@ -87,3 +87,16 @@ C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.NET45.AsyncAwait\bin\Debug\mkoAlgorithm.dll
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.NET45.AsyncAwait\bin\Debug\mkoAlgorithm.pdb
 C:\Users\marti_000\Documents\prj\NET\2016-01-VB-NET-Raststatt\VB.NET\VB.Threads.NET45.AsyncAwait\bin\Debug\mkoAlgorithm.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.NET45.AsyncAwait\bin\Debug\VB.Threads.NET45.AsyncAwait.exe.config
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.NET45.AsyncAwait\obj\Debug\VB.Threads.NET45.AsyncAwait.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.NET45.AsyncAwait\obj\Debug\VB.Threads.NET45.AsyncAwait.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.NET45.AsyncAwait\obj\Debug\VB.Threads.NET45.AsyncAwait.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.NET45.AsyncAwait\bin\Debug\VB.Threads.NET45.AsyncAwait.exe
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.NET45.AsyncAwait\bin\Debug\VB.Threads.NET45.AsyncAwait.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.NET45.AsyncAwait\bin\Debug\VB.Threads.NET45.AsyncAwait.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.NET45.AsyncAwait\bin\Debug\mkoAlgorithm.dll
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.NET45.AsyncAwait\bin\Debug\mkoAlgorithm.pdb
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.NET45.AsyncAwait\bin\Debug\mkoAlgorithm.xml
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.NET45.AsyncAwait\obj\Debug\VB.Threads.NET45.AsyncAwait.vbprojResolveAssemblyReference.cache
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.NET45.AsyncAwait\obj\Debug\VB.Threads.NET45.AsyncAwait.Resources.resources
+C:\Users\Schulung\Documents\Visual Studio 2013\Projects\2016-06-27-pcc-vb-texte-intranet\VB.NET\VB.Threads.NET45.AsyncAwait\obj\Debug\VB.Threads.NET45.AsyncAwait.vbproj.GenerateResource.Cache

@@ -317,6 +317,10 @@ Public Class _01_05_06_Datentypen
         ' Unboxing beim downcast
         Dim dblVal2 = CDbl(objVal)
 
+        ' Scheitern, da Unboxing kann nur in einen Typ erfolgen, der
+        ' er ursprünglich war
+        Dim sngVal2 = CInt(objVal)
+
         ' Boxing/Unboxing implizit
         txtVal = dblVal.ToString()
 
@@ -324,6 +328,8 @@ Public Class _01_05_06_Datentypen
 
     Public Shared Function Unboxing(box As Object) As Double
         ' Kann man auch mit Convert.ToDouble(box) realisieren
+
+        Return CDbl(box)
 
         If TypeOf box Is Integer Then
             Return CDbl(CInt(box))
